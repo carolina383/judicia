@@ -1,0 +1,219 @@
+A
+B
+C
+D
+E
+F
+G
+H
+644
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+SUPER DIAMOND TOOLS & ORS.
+v.
+K. MOHAN RAO
+(Civil Appeal No. 6216 of 2012)
+MARCH 02, 2023
+[S. RAVINDRA BHAT AND DIPANKAR DATTA, JJ.]
+Arbitration and Conciliation Act, 1996: s. 34 – Setting aside
+of arbitral award – Dispute regarding partnership accounts between
+the parties referred to arbitration – As a counter claim, the surviving
+partner of the appellant firm alleged that the respondent had
+falsified accounts and siphoned huge sums of money – Arbitrator
+concluded that the respondent was guilty of fraud – Application by
+the respondent for setting aside of award – Rejected by Single Judge
+of the High Court – Division Bench of the High Court held
+arbitrator’s method of proceeding backwards and looking at
+accounts of 21 years was unsustainable and set aside the award on
+the ground of public policy – On appeal, held: Appellant had
+knowledge of the alleged fraud, but made no attempt to positively
+enforce his claim for more than 3 years from the date of such
+knowledge – Further, no specific averments on allegation of fraud
+– Thus, no error by Division Bench of High Court in setting aside
+the award.
+Limitation Act, 1963 – s. 17 – Effect of fraud or mistake –
+Start of period of limitation – Held: s. 17 is an exception to the rule
+that the period of limitation commences from the date of cause of
+action – However, where the condition contemplated under the
+provision exists (such as fraud), then subject to proof based on
+specific averments, date when limitation begins to be seen is date of
+knowledge of the plaintiff.
+Vallabh Glass Works Ltd. v. Union of India [1984] 3
+SCR 180; Commissioner of Sales Tax, UP v. Auriaya
+Chambers of Commerce, Allahabad [1986] 2 SCR 430;
+R. Radha Bai & Ors. v. P. Ashok Kumar & Ors. [2018]
+12 SCR 143 – relied on.
+[2023] 3 S.C.R. 644
+644
+
+A
+B
+C
+D
+E
+F
+G
+H
+645
+Case Law Reference
+[1984] 3 SCR 180
+relied on
+Para 10
+[1986] 2 SCR 430
+relied on
+Para 10
+[2018] 12 SCR 143
+relied on
+Para 10
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 6216
+of 2012.
+From the Judgment and Order dated 29.09.2008 of the High Court
+of Madras in OSA No. 67 of 2007.
+R. Anand Padmanabhan, Pramod Dayal, Advs. for the Appellants.
+P. I. Jose, Adv. for the Respondent.
+The Judgment of the Court was delivered by
+S. RAVINDRA BHAT, J.
+1. The present appeal questions an order of the Madras High
+Court which upset the findings of a learned single judge of that Court.
+The single judge had rejected the respondent’s petition under Section 34
+of the Arbitration and Conciliation Act, 1996; the Division Bench set
+aside the single judge’s order and appointed a fresh arbitrator.
+2. The award in this case was made, pursuant to a reference by
+the Madras High Court on 28.08.1997. The dispute between the parties
+was in respect of partnership accounts. The surviving partner of the
+appellant alleged that the first respondent was guilty of falsification of
+accounts and that he had siphoned off huge sums of money. The parties
+had initiated a dialogue with the idea of settling the dispute amicably.
+However, there was no resolution. As a result, the respondent approached
+the High Court under Section 11 of the Act which culminated in the
+reference.
+3. The arbitral tribunal comprising of a sole arbitrator examined
+the pleadings and evidence and concluded that the first respondent was
+guilty as alleged. The appellant, interestingly, did not prefer a claim, and
+instead made a counter claim in the course of the arbitration proceedings,
+initiated at the behest of the first respondent. The arbitral tribunal, on the
+basis of its findings held that a total sum of ` 76,34,423.86/- had to be
+duly accounted after deducting the first respondent’s share. The amount
+was ` 53,87,664.40/-.
+SUPER DIAMOND TOOLS & ORS. v. K. MOHAN RAO
+
+A
+B
+C
+D
+E
+F
+G
+H
+646
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+4. The arbitrator also directed payment of interest @ 18% p.a.
+from 31.01.1994 till date of commencement of arbitration and future
+interest at the same rate. The first respondent‘s application under Section
+34 was rejected by the single judge. He, therefore, approached the
+Division Bench, which by the impugned order, held that the award could
+not be sustained as it was contrary to public policy. To so conclude, the
+Division Bench was of the opinion that the method adopted by the
+arbitrator in proceeding backwards as it were, and taking accounts for a
+period of 21 years, was unsustainable.
+5. This Court has heard counsel for the parties. Mr. R. Anand
+Padmanabhan, counsel on behalf of the appellant submitted that both
+parties had agreed to the appointment of a neutral auditor. The parties
+were also assisted by their own auditor and on the basis of unanimity the
+method adopted towards accounting was arrived at. This material was
+considered objectively by the tribunal, which arrived at the finding that
+the first respondent was guilty of firstly, over-invoicing and secondly,
+trading surreptitiously, which resulted in loss to the partnership firm. On
+the basis of this finding and and the agreed neutral auditor’s calculations,
+the figures were accepted by the tribunal. It was argued that in these
+circumstances, the first respondent could not have contended that the
+award was contrary to public policy.
+6. Learned counsel also relied on Section 17 of the Limitation
+Act, 1963 to urge that fraud unravels all, and that in this case since fraud
+was alleged in the counter claim and found by the arbitrator, fault could
+not have been found with the award. Therefore, there was no error of
+law which amounted to its being contrary to public policy.
+7. Mr. Jose, learned counsel appearing for the first respondent,
+pointed out that the appellant, in fact, did not seek a reference; rather it
+was the first respondent who made that claim. More importantly, it was
+urged that in the facts of this case, the appellant had knowledge of the
+alleged over-invoicing and other malpractices, which resulted in the ouster
+of the first respondent from the partnership firm in the year 1993.
+8. He relied upon the correspondence between the parties and
+argued that the demand for reconciliation was made in the second week
+of February, 1994. Therefore, when the reference was made in 1997
+and when the claim was made, the appellant only then, preferred a counter
+claim in December, 1997. It was therefore, submitted that even on an
+
+A
+B
+C
+D
+E
+F
+G
+H
+647
+application of the principle underlying Section 17, the claim was time
+barred.
+9. The impugned order was based entirely upon the fact that the
+award sought to crystallize liabilities based on working of the accounts
+for 21 years. The Division Bench, further, noticed that the arbitrator
+was appointed, pursuant to which the appellant made a counter claim.
+The record shows that in terms of the averments in the counter claim,
+the first respondent had stopped functioning as a partner in December,
+1993. Although it appears that the parting of ways took place in early
+January, 1994, the fact remains that between that time and December,
+1997 there was no attempt on the part of the appellant to positively
+enforce his claim. Furthermore, even the pleadings in the counter claim
+are not specific with respect to the allegations of fraud. The ground on
+which the counter claim ultimately succeeded was over-invoicing on the
+one hand and diversion of raw material, such as diamonds, into the
+respondent’s wife’s business which resulted in denuding the partnership
+firm’s profit.
+10. The allegations in the counter claim are only to the effect that
+the first respondent set up a firm within 6 months of the leaving the
+appellant’s firm. Section 17 of the Limitation Act is an exception to the
+rule that the period of limitation commences from the date of cause of
+action. However, where the condition contemplated under Section 17 -
+such as fraud exists, then subject to proof of fraud (based on specific
+averments) the date when limitation begins to be seen is date of knowledge
+of the plaintiff. The principle consistently followed by this Court in its
+past decisions such as Shri Vallabh Glass Works Ltd. v. Union of
+India1 and Commissioner of Sales Tax, UP v. Auriaya Chambers of
+Commerce, Allahabad2 is that the date of knowledge of fraud - or such
+misfeasance - is the starting point for limitation. Further, it has been held
+by this Court in R. Radha Bai & Ors. v. P. Ashok Kumar & Ors.3 that
+Section 17 of the Limitation Act:
+“does not extend or break the limitation period. It only
+postpones or defers the limitation period. This is evident from
+the phrase “The period of limitation shall not begin to run.”
+1 [1984] 3 SCR 180
+2 [1986] 2 SCR 430
+3 [2018] 12 SCR 143
+SUPER DIAMOND TOOLS & ORS. v. K. MOHAN RAO
+[S. RAVINDRA BHAT, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+648
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+11. Having regard to the fact that the appellant (through its surviving
+partner) made its claim beyond 3 years from the date of his knowledge
+of the alleged fraud, this Court is of the opinion that the impugned order,
+to the extent it sets aside the award, although in an appeal, is not in error
+of law.
+12. For the above reasons, the appeal fails and is accordingly
+dismissed. Pending application(s), if any, are disposed of.
+Nidhi Jain
+Appeal dismissed.
+(Assisted by : Veda Singh, LCRA)
+

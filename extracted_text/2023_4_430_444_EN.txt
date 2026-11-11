@@ -1,0 +1,707 @@
+A
+B
+C
+D
+E
+F
+G
+H
+430
+SUPREME COURT REPORTS
+[2023] 4 S.C.R.
+SAP LABS INDIA PRIVATE LIMITED
+v.
+INCOME TAX OFFICER, CIRCLE 6, BANGALORE
+(Civil Appeal No. 8463 of 2022)
+APRIL 19, 2023
+[M. R. SHAH AND M. M. SUNDRESH, JJ.]
+Income Tax Act, 1961 : ss. 92, 92A to 92CA, 92D, 92E, 92F
+and 260 A – Transfer pricing matters – Arm length price,
+determination of – Arm length price, determined by the tribunal –
+Thereafter, determination of the arm’s length price by the High Court,
+in exercise of powers u/s. 260A – Permissibility of - Held: There
+cannot be any absolute proposition of law that in all cases where
+the tribunal has determined the arm’s length price the same is final
+and cannot be the subject matter of scrutiny by the High Court in
+an appeal u/s 260A – When the determination of the arm’s length
+price is challenged before the High Court, it is always open for the
+High Court to consider and examine whether the arm’s length price
+has been determined while taking into consideration the relevant
+guidelines under the Act and the Rules – It is always open for the
+High Court to examine in each case whether the determination of
+the arm’s length price and the findings recorded by tribunal while
+determining the arm’s length price are perverse or not – Thus, the
+impugned judgments and orders passed by the High Court that the
+determination of arm’s length price by the tribunal shall be final
+against which an appeal u/s. 260 A is not required to be entertained
+is quashed and set aside.
+Allowing the appeals, the Court
+HELD: 1.1 While determining the arm’s length price, the
+tribunal has to follow the guidelines stipulated under Chapter X
+of the Income Tax Act, 1961, namely, Sections 92, 92A to 92CA,
+92D, 92E and 92F of the Act and Rules 10A to 10E of the Rules.
+Any determination of the arm’s length price under Chapter X de
+hors the relevant provisions of the guidelines, can be considered
+as perverse and it may be considered as a substantial question of
+law as perversity itself can be said to be a substantial question of
+law. Therefore, there cannot be any absolute proposition of law
+[2023] 4 S.C.R. 430
+430
+
+A
+B
+C
+D
+E
+F
+G
+H
+431
+that in all cases where the tribunal has determined the arm’s
+length price the same is final and cannot be the subject matter of
+scrutiny by the High Court in an appeal under Section 260A of
+the IT Act. When the determination of the arm’s length price is
+challenged before the High Court, it is always open for the High
+Court to consider and examine whether the arm’s length price
+has been determined while taking into consideration the relevant
+guidelines under the Act and the Rules. Even the High Court
+can also examine the question of comparability of two companies
+or selection of filters and examine whether the same is done
+judiciously and on the basis of the relevant material/evidence on
+record. The High Court can also examine whether the
+comparable transactions have been taken into consideration
+properly or not, i.e., to the extent non-comparable transactions
+are considered as comparable transactions or not. [Para 7][442-
+C-G]
+1.2. In each case, the High Court should examine whether
+the guidelines laid down in the Act and the Rules are followed
+while determining the arm’s length price. Therefore, the absolute
+proposition of law laid down by the Karnataka High Court in the
+case of Softbrands India (P) Ltd. that in the matter of transfer
+pricing, determination of the arm’s length price by the tribunal
+shall be final and cannot be subject matter of scrutiny and the
+High Court is precluded from examining the correctness of the
+determination of the arm’s length price by the tribunal in an appeal
+under Section 260A of the IT Act on the ground that it cannot be
+said to be raising a substantial question of law cannot be accepted.
+Within the parameters of Section 260A of the IT Act in an appeal
+challenging the determination of the arm’s length price, it is
+always open for the High Court to examine in each case whether
+while determining the arm’s length price, the guidelines laid down
+under the Act and the Rules, are followed or not and whether the
+determination of the arm’s length price and the findings recorded
+by the tribunal while determining the arm’s length price are
+perverse or not. [Para 8][442-H; 443-A-C]
+1.3. The impugned judgments and orders passed by the
+High Court dismissing the Revenue’s appeals and even the
+appeals preferred by the assessees are quashed and set aside
+SAP LABS INDIA PRIVATE LIMITED v. INCOME TAX
+OFFICER, CIRCLE 6, BANGALORE
+
+A
+B
+C
+D
+E
+F
+G
+H
+432
+SUPREME COURT REPORTS
+[2023] 4 S.C.R.
+and the matters are required to be remitted back to the concerned
+High Courts to decide and dispose of the respective appeals
+afresh in light of the observations made and examine in each and
+every case whether the guidelines laid down under the Act and
+the Rules, referred are followed while determining the arm’s
+length price by the tribunal or not and to that extent whether the
+findings recorded by the tribunal while determining the arm’s
+length price are perverse or not. [Para 9][443-D-E]
+PCIT v. Softbrands India (P) Ltd. (2018) 406 ITR 513
+(Karnataka) – disapproved.
+Vijay Kumar Talwar v. CIT (2011) 1 SCC 673 : [2010]
+14 SCR 499; Sir Chunilal V. Mehta and Sons Ltd. v.
+Century Spinning and Manufacturing Co. Ltd. AIR 1962
+SC 1314 : [1962] Suppl. SCR 549; G. L. Sutania and
+Anr v. SEBI and Ors. (2007) 5 SCC 133 : [2007] 6
+SCR 1152 – referred to.
+Case Law Reference
+[2010] 14 SCR 499
+referred to
+Para 3.4
+[1962] Suppl. SCR 549
+referred to
+Para 3.4
+[2007] 6 SCR 1152
+referred to
+Para 3.11
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 8463
+of 2022.
+From the Judgment and Order dated 09.07.2018 of the High Court
+of Karnataka at Bengaluru in ITA No. 10 of 2011.
+With
+Civil Appeal Nos. 8553, 8504, 8464, 8682, 9387, 8675, 9401, 9023,
+8465, 8466, 8607, 8608, 8554, 8622, 8609, 8702, 8621, 8620, 8610, 8611,
+8619, 8617, 8625, 8624, 8618, 8627, 8665, 8623, 8557, 8626, 8555, 8528,
+8704, 8666, 8661, 8663, 8628, 8664, 8559, 8667, 8560, 8668, 8584, 8587,
+
+A
+B
+C
+D
+E
+F
+G
+H
+433
+8586, 8669, 8672, 8591, 8671, 8670, 8556, 8558, 8561, 8583, 8585, 8590,
+8592, 8674, 8679, 8594, 8680, 8686, 8703, 8600, 8676, 8677, 8683, 8684,
+8689, 8690, 8685, 9412, 8678, 8691, 9413, 8692, 9414, 8695, 9415, 8687,
+8696, 8603, 8605, 8699, 8700, 8701, 8697, 9404, 9411, 8602, 8693, 8705,
+8688, 8698, 9405, 9406, 9409, 9407, 9408, 9025, 9030, 9034, 9036, 8604,
+9410, 9021, 9022, 9024, 9026, 9027, 9028, 9029, 9416, 9031, 9032, 9033,
+9035, 9037, 9038, 9039, 9388, 9389, 9390, 9393, 9394, 9395, 9396, 9397,
+9398, 9399, 9400 of 2022, 2939 of 2023, 9402-9403, 8606, 8512, 8513,
+8511, 8646, 8549 of 2022, 2938 of 2023, 8461 and 8535 of 2022.
+Balbir Singh, ASG, K.K.Chythanya, Tarun Gulati, Ajay Bohra,
+Arvind P. Datar, T. Suryanarayan, Percy Pardiwala, Ajay Vohra, Sr.
+Advs., Samarvir Singh, Naman Tandon, Prasenjeet Mohapatra, Ms.
+Monica Benjamin, Ms. Anu Sura, Rupesh Kumar, Rajat Nair, Shyam
+Gopal, Zoheb Hussain, Prahlad Singh, Raj Bahadur Yadav, S. Sukumaran,
+Anand Sukumar, Sharath S., Bhupesh Kumar Pathak, Mrs. Meera
+Mathur, Ambhoj Kumar Sinha, Mrs. Anil Katiyar, Kishore Kunal, Parth,
+Manish Rastogi, Ankita Prakash, Akanksha Vigyan, Senthil Jagadeesan,
+Sajal Jain, Ms. Sonakshi Malhan, Ms. Remya Raj, Aakarshan Aditya,
+Deepak Chopra, Rohan Khare, Priyam Bhatnagar, Harpreet Singh
+Ajmani, Mrs. Vanita Bhargava, Ajay Bhargava, Shantanu Chaturvedi,
+Prerna Singh, M/s. Khaitan & Co., Himanshu S. Sinha, Bhuwan Dhoopar,
+Yash Varmani, Syed Jafar Alam, Sanand Ramakrishnan, Nageswar Rao,
+Shreyash Shah, Yatharth Singh, Ms. Archana Sahadeva, Siddharth Raj
+Choudhary, G. C Srivastava, Suvinay Dash, Kalrav Mehrotra,
+Ms. Runamoni Bhuyan, H. Raghavendra Rao, Shankey Agrawal, Harsh
+Shukla, Aditya Rathore, Ms. Shreya Wadhera, Ms. Meera Mathur, Kunal
+Verma, Yugandhara Pawar Jha, Ms. Tanmayee Rajkmar, Ms. Manasa
+Ananthan, Ashwin Nair, Ms. Mahima Goud, Sai Kiran, Ms. Lavanya
+Dhawan, Ritik Gupta, Ms. Kavita Jha, Anant Mann, Neeraj Jain, Udit
+Naresh, Aniket D. Agrawal, Rajeev Mishra, Vishal Kalra, S. S. Tomar,
+Anil Kumar Gautam, Rohan Shah, Aurupdas Gupta, Rohan Thawani,
+Ms. Pooja Dhar, Hardeep Singh Anand, Pratul Pratap Singh, Mantavya
+Sharma, V. Balachandran, K.R. Vasudevan, Siddharth Naidu, M/s. KSN
+& Co., Salil Kapoor, Ms. Ananya Kapoor, Sanat Kapoor, Sumit
+Lalchandani, Dr. Shaswat Bajpai, Vibhu Jain, Praveen Swarup, Vivek
+Sarin, Dibya Prashant Singh, Satish C. Kaushik, Ms. Avnika Mishra,
+Aakarshan Aditya, Advs. for the appearing parties.
+SAP LABS INDIA PRIVATE LIMITED v. INCOME TAX
+OFFICER, CIRCLE 6, BANGALORE
+
+A
+B
+C
+D
+E
+F
+G
+H
+434
+SUPREME COURT REPORTS
+[2023] 4 S.C.R.
+The Judgment of the Court was delivered by
+M. R. SHAH, J.
+1. The present batch of Civil Appeals, mostly by the Revenue and
+few of the assessees arises out of judgments and orders passed by the
+various High Courts, more particularly the High Court of Karnataka,
+dismissing the appeals challenging the findings of the Income Tax
+Appellate Tribunal (for short, ‘Tribunal’) on ‘Transfer Pricing’ issues on
+the ground that the issues decided by the Tribunal are questions of fact
+and as perversity is neither pleaded nor argued nor demonstrated by
+placing material to that effect, no substantial question of law arises for
+consideration under Section 260A of the Income Tax Act, 1961 (for
+short, ‘IT Act’). The High Court of Karnataka has dismissed the appeals
+preferred by the Revenue by relying upon its earlier judgment in the
+case of PCIT v. Softbrands India (P) Ltd., reported in (2018) 406
+ITR 513 (Karnataka).
+2. Shri Balbir Singh, learned Additional Solicitor General of India,
+appearing on behalf of the Revenue has vehemently submitted that the
+Karnataka High Court in the case of Softbrands India (P) Ltd. (supra)
+has erroneously held that the Tribunal is the final fact finding authority
+on determining the arm’s length price and therefore once the Tribunal
+determines the arm’s length price the same cannot be subject to judicial
+scrutiny/scrutiny in an appeal under Section 260A of the IT Act.
+2.1 Shri Balbir Singh, learned ASG has submitted that there cannot
+be any absolute proposition of law that against the decision of the Tribunal
+determining the arm’s length price, there shall not be any interference
+by the High Court in an appeal under Section 260A of the IT Act.
+2.2 Shri Balbir Singh, learned ASG has taken us to the scheme of
+transfer pricing/arm’s length price to be determined under Chapter X of
+the IT Act, more particularly Sections 92, 92A to 92CA, 92D, 92E and
+92F and Rules 10A to 10E of the Income Tax Rules, 1962 (for short, ‘IT
+Rules’). It is submitted that under the scheme of transfer pricing, the
+arm’s length price is to be determined taking into consideration the
+guidelines stipulated under the aforesaid provisions of the IT Act and the
+Rules. It is submitted that therefore it is always open for the High Court
+to consider and/or examine, whether the guidelines stipulated under the
+Act and the Rules, while determining the arm’s length price have been
+followed by the Tribunal or not.
+
+A
+B
+C
+D
+E
+F
+G
+H
+435
+2.3 It is submitted that if the arm’s length price is determined by
+the Tribunal de hors the guidelines stipulated under the Act and the
+Rules, more particularly Rules 10A to 10E of the Rules, the determination
+can be said to be perverse which is always subject to the scrutiny by the
+High Court in an appeal under Section 260A of the Act.
+2.4 It is submitted that therefore the view taken by the High Court
+of Karnataka in the case of Softbrands India (P) Ltd. (supra) is required
+to be corrected by this Court.
+3. S/Shri Arvind P. Datar, Tarun Gulati, Percy Pardiwala, learned
+Senior Advocates and other learned counsel appearing on behalf of the
+respective assessees have vehemently submitted that once the arm’s
+length price is determined by the Tribunal taking into consideration the
+relevant guidelines, thereafter challenge to the same cannot be said to
+be a substantial question of law, to be considered in an appeal under
+Section 260A of the IT Act.
+3.1 It is submitted on behalf of the assessees that Section 260A of
+the IT Act provides that an appeal shall lie to the High Court from every
+order of the Tribunal only if the High Court is satisfied that the case
+involves a substantial question of law. Sub-section (6) thereof provides
+that the High Court may determine any issue which (a) has not been
+determined by the Appellate Tribunal; or (b) has been wrongly determined
+by the Appellate Tribunal, by reason of a decision on such question of
+law as is referred to in sub-section(1).
+3.2 It is submitted that the said provision came up for consideration
+in a catena of decisions. It is a settled position that jurisdiction under
+section 260A of the IT Act cannot be invoked unless there arises a
+substantial question of law. This is precisely what is held by the High
+Court of Karnataka in the judgment in Softbrands India (P) Ltd. (supra),
+by relying on a series of judgments of this Court.
+3.3 It is submitted that a substantial question of law can arise in a
+case only when a question of law is fairly arguable, where there is room
+for difference of opinion on it.
+3.4 It is submitted that a finding of fact may give rise to a substantial
+question of law, inter alia, in the event the findings are based on (i) no
+evidence; and/or (ii) while arriving at the said finding, relevant admissible
+evidence has not been taken into consideration or inadmissible evidence
+has been taken into consideration; or (iii) legal principles have not been
+SAP LABS INDIA PRIVATE LIMITED v. INCOME TAX
+OFFICER, CIRCLE 6, BANGALORE [M. R. SHAH, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+436
+SUPREME COURT REPORTS
+[2023] 4 S.C.R.
+applied in appreciating the evidence; or (iv) when the evidence has been
+misread. The High Courts as well as this Court have consistently held
+that the Tribunal being a final fact finding authority, in the absence of
+demonstrated perversity in its finding, interference therewith by the High
+Court is not warranted. In support of his submission, learned senior
+counsel/counsel have relied upon the decisions of this Court in the cases
+of Vijay Kumar Talwar v. CIT, (2011) 1 SCC 673 and Sir Chunilal
+V. Mehta and Sons Ltd. v. Century Spinning and Manufacturing
+Co. Ltd., reported in AIR 1962 SC 1314.
+3.5 It is further submitted that perversity, if any, not only should be
+specifically alleged in the appeal before the High Court but also, as held
+by the High Court in the case of Softbrands India (P) Ltd. (supra), the
+same ought to have been demonstrated.
+3.6 It is further submitted that some instances where a substantial
+question of law can arise in Transfer Pricing matter is where the issue
+relates to whether at all a transaction falls within the definition of
+‘international transaction’, or if two enterprises are ‘associated
+enterprises’ as per the definition under the IT Act. The question of
+comparability of two companies or selection of filters are usually question
+of fact, which primarily depend on the functions performed, assets
+employed and risks assumed by the tested party as well as comparable
+transactions. Unless perversity in the findings of the Tribunal is pleaded
+and demonstrated, by placing material on record, no substantial question
+of law can arise and, therefore, there can be no interference by the High
+Court. To the extent there can be no dispute between the parties, in
+view of the settled legal proposition dealing with sections 260A of the
+Act and section 100 of the Code of Civil Procedure, 1908.
+3.7 It is submitted that in all the appeals filed by the Revenue
+before the High Court, the primary issues raised pertained to inclusion
+and exclusion of a few comparables and selection of filters, which are
+essentially questions of fact and there is a consensus ad idem to this
+extent between the parties. In none of the appeals has the Revenue
+pleaded, argued, or placed any material to demonstrate perversity in the
+order of the Tribunal. Therefore, the High Court after noting the questions
+raised, findings rendered by the Tribunal and noting that perversity is
+neither pleaded/argued nor demonstrated by placing any material,
+dismissed the appeals, by relying on principles laid down in Softbrands
+India (P) Ltd. (supra). Therefore, no error can be attributed to the
+
+A
+B
+C
+D
+E
+F
+G
+H
+437
+orders passed by the High Court dismissing the appeals, in such
+circumstances.
+3.8 It is next submitted that the submission of the Revenue that in
+each case the High Court should examine whether the guidelines laid
+down in the IT Act and the Rules are followed to determine the arm’s
+length price is not correct and moreover is too farfetched, as the High
+Court can only decide substantial questions of law raised and arising
+before it.
+3.9 It is further submitted that the Revenue’s submission that the
+judgment in Softbrands India (P) Ltd. (supra) indicates that there will
+be no interference even where inconsistent views are taken by the
+Tribunal is misconceived, because, it is quite possible that in view of the
+particular set of facts in one case, one Bench excludes a company and
+in another case includes the same in view of different set of facts, or
+similarly applies a filter in one and not in another. This is what is in fact
+held in Softbrands India (P) Ltd. (supra) (please see para 45). In
+almost all cases it is the Revenue which uses the same set of comparables
+for determining an arm’s length price, thus, painting all assessees with
+the same brush. These are questions of facts, which would require
+determination on a case by case basis, and unless perversity is
+demonstrated in the order of the Tribunal, no interference is called for
+by the High Court.
+3.10 It is further submitted that Transfer Pricing analysis involves
+benchmarking of controlled transactions with uncontrolled transactions
+(terms specifically defined in the IT Act and the Rules) is largely a
+statistical exercise using database of companies in public domain as
+specifically defined in the IT Act and the Rules, referred hereinabove.
+In the specific facts of batch of cases wherein department has
+approached this Court, the exercise of application of detailed guidelines
+set out in the IT Act and the Rules was indeed carried out and ironed out
+by Tribunal with assistance of tax payers representatives and department
+officers by looking a publicly available information mostly in the form of
+audited financials etc., of companies as prescribed in the IT Act and the
+Rules. Contrasting the appeals/ pleadings filed before High Court of
+Karnataka by taxpayers and department available as part of batch of
+appeals filed would enable appreciation of the case made out before the
+High Court. This is essential to appreciate the correctness of conclusions
+by the High Court in this batch of appeals/petitions. Tax department is
+SAP LABS INDIA PRIVATE LIMITED v. INCOME TAX
+OFFICER, CIRCLE 6, BANGALORE [M. R. SHAH, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+438
+SUPREME COURT REPORTS
+[2023] 4 S.C.R.
+attempting to seek intervention of this Court in present batch of
+department’s cases without reference to/de hors any of this relevant
+background facts. Over last two decades, Tribunal and various High
+Courts have applied the guidelines laid down in the IT Act and the Rules
+contributing to evolution of a process. Intervention in the department’s
+appeals in present batch of cases and/or laying down any guidelines
+ignoring this background could potentially disturb the well settled principles
+under section 260A (equivalent to section 100 CPC). In background
+facts or present batch of department’s appeals, acceptance of
+department’s contention about lack of application of mind by the High
+Court would cast an unjust burden on the High Court to undertake a suo
+moto exploration of facts not placed before it, make out a case for the
+department and decide the same without any assistance from the appellant
+before the High Court. Any such guidelines would upset settled law not
+only with reference to section 260A but also impact process under section
+100 CPC. Unlike the assessees cases involved in this batch of appeals,
+it was never the case of the department that the High Court has not
+considered any of its written/ oral pleadings before the High Court. It is
+submitted that considered view may be taken after taking into account
+pleadings before the High Court, pleadings in the appeals before this
+Court in Assessees and department appeals and not based on sweeping
+generalization.
+3.11 It is submitted that Transfer Pricing provisions are essentially
+a valuation exercise involving determination of a statistical sample of
+comparables. Under Section 92C(2) of the IT Act, Arm’s Length Price
+is always in a range. It is not a science but it is an art. This Court in G.L.
+Sutania and Anr v SEBI and Ors. reported in 2007 (5) SCC 133 at
+paras 84 and 85, have unequivocally stated that valuation is a question of
+fact.
+3.12 It is submitted that the case of the Revenue is that the
+proposition in Softbrands India (P) Ltd. (supra) that no question of
+law can arise out of the transfer pricing matters involving selection of
+comparables or application of filters, and the Tribunal is the final fact
+finding authority and all the questions decided by the Tribunal are
+questions of fact is too broadly stated, and as a result of this proposition,
+it would appear that the High Court has held that no appeal would lie to
+it under section 260A of the IT Act.
+
+A
+B
+C
+D
+E
+F
+G
+H
+439
+3.13 It is further submitted by the learned counsel appearing on
+behalf of the respective assessees in the appeals preferred by the
+Revenue that in all these cases, the High Court has found that there is
+no perversity by the Tribunal in determining the arm’s length price and
+therefore no substantial question of law arises as no perversity is pleaded
+and demonstrated. It is submitted that therefore the impugned judgments
+and orders passed by the High Court dismissing the appeals preferred
+by the Revenue are not required to be interfered with by this Court.
+4. We have heard Shri Balbir Singh, learned ASG appearing on
+behalf of the Revenue and learned senior counsel/counsel appearing on
+behalf of the respective assessees at length.
+5. In the present batch of Civil Appeals preferred by the Revenue,
+the respective High Courts, more particularly the Karnataka High Court
+have/has dismissed the appeals preferred by the Revenue in which the
+Revenue challenged the determination of the arm’s length price by the
+Tribunal, relying upon and/or considering the decision of the Karnataka
+High Court in the case of Softbrands India (P) Ltd. (supra). In the
+case of Softbrands India (P) Ltd. (supra), the High Court has taken
+the view that the determination of arm’s length price by the Tribunal
+shall be final against which an appeal under Section 260A of the IT Act
+is not required to be entertained.
+Therefore, the short question which is posed for the consideration
+of this Court is, whether in every case where the Tribunal determines
+the arm’s length price, the same shall attain finality and the High Court is
+precluded from considering the determination of the arm’s length price
+determined by the Tribunal, in exercise of powers under Section 260A
+of the Act?
+6. While determining the aforesaid issue, the relevant provisions
+for determining the arm’s length price under the IT Act are required to
+be referred to.
+Section 92-C which is relevant, for the purpose of determining
+ALP inter alia, reads as follows:
+“92C. (1) The arm’s length price in relation to an
+international transaction [or specified domestic
+transaction] shall be determined by any of the following
+methods, being the most appropriate method, having regard
+to the nature of transaction or class of transaction or class
+SAP LABS INDIA PRIVATE LIMITED v. INCOME TAX
+OFFICER, CIRCLE 6, BANGALORE [M. R. SHAH, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+440
+SUPREME COURT REPORTS
+[2023] 4 S.C.R.
+of associated persons or functions performed by such
+persons or such other relevant factors as the Board may
+prescribe, namely : -
+(a) comparable uncontrolled price method;
+(b) resale price method;
+(c) cost plus method;
+(d) profit split method;
+(e) transactional net margin method;
+(f) such other method as may be prescribed by the Board.
+(2) The most appropriate method referred to in sub-section
+(1) shall be applied, for determination of arm’s length price,
+in the manner as may be prescribed:
+Provided that where more than one price is determined by the
+most appropriate method, the arm’s length price shall be taken
+to be the arithmetical mean of such prices:
+** ** **
+(3) Where during the course of any proceeding for the
+assessment of income, the Assessing Officer is, on the basis
+of material or information or document in his possession, of
+the opinion that-
+(a) the price charged or paid in an international
+transaction [or specified domestic transaction] has not
+been determined in accordance with sub-sections (1) and
+(2); or
+(b) any information and document relating to an
+international transaction [or specified domestic
+transaction] have not been kept and maintained by the
+assessee in accordance with the provisions contained in
+sub-section (1) of section 92D and the rules made in this
+behalf; or
+(c) the information or data used in computation of the arm’s
+length price is not reliable or correct; or
+
+A
+B
+C
+D
+E
+F
+G
+H
+441
+(d) the assessee has failed to furnish, within the specified
+time, any information or document which he was required
+to furnish by a notice issued under sub-section (3) of
+section 92D, the Assessing Officer may proceed to
+determine the arm’s length price in relation to the said
+international transaction [or specified domestic
+transaction] in accordance with sub-sections (1) and (2),
+on the basis of such material or information or document
+available with him:
+Provided that an opportunity shall be given by the Assessing
+Officer by serving a notice calling upon the assessee to
+show cause, on a date and time to be specified in the notice,
+why the arm’s length price should not be so determined on
+the basis of material or information or document in the
+possession of the Assessing Officer.”
+20. Section 92C(1) thus visualizes determination of the “arms-
+length price” (ALP) by any of five enumerated methods, “being
+the most appropriate method ”, having regard to the “nature of
+transaction or class of transaction or class of associated
+persons or functions performed by such persons or such other
+relevant factors as the board may prescribe, namely (a)
+comparable uncontrolled price method, (b) resale price
+method, (c) cost + method, (d) profit split method, (e)
+transactional net margin method, (f) any such other method
+as may be prescribed by the board. Where more than one price
+is determined by the most appropriate method, the arm’s length
+price shall be taken to be arithmetical mean of such prices.”
+21. Rule 10B of the Rules prescribes the determination of arm’s
+length price under Section 92C. The first step in all methods is
+evaluation of differences between the international transaction
+undertaken with the “unrelated enterprise performing the
+comparable functions” in similar circumstances. Rule 10B of
+the Income-tax Rules inter alia, provides for various methods
+for determination of the arm’s length price. Rule 10B(1)(e)
+prescribes the “transactional net margin method” (TNMM) with
+which the present case is concerned. Rule 10B(1)(e) (i) is as
+under:
+SAP LABS INDIA PRIVATE LIMITED v. INCOME TAX
+OFFICER, CIRCLE 6, BANGALORE [M. R. SHAH, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+442
+SUPREME COURT REPORTS
+[2023] 4 S.C.R.
+“10B. (1) Determination of arm’s length price under section
+92C:— . .
+************* *********
+(e) transactional net margin method, by which,—
+(i) the net profit margin realised by the enterprise from an
+international transaction entered into with an associated
+enterprise is computed in relation to costs incurred or sales
+effected or assets employed or to be employed by the
+enterprise or having regard to any other relevant base.”
+7. Therefore, while determining the arm’s length price, the Tribunal
+has to follow the guidelines stipulated under Chapter X of the IT Act,
+namely, Sections 92, 92A to 92CA, 92D, 92E and 92F of the Act and
+Rules 10A to 10E of the Rules. Any determination of the arm’s length
+price under Chapter X de hors the relevant provisions of the guidelines,
+referred to hereinabove, can be considered as perverse and it may be
+considered as a substantial question of law as perversity itself can be
+said to be a substantial question of law. Therefore, there cannot be any
+absolute proposition of law that in all cases where the Tribunal has
+determined the arm’s length price the same is final and cannot be the
+subject matter of scrutiny by the High Court in an appeal under Section
+260A of the IT Act. When the determination of the arm’s length price is
+challenged before the High Court, it is always open for the High Court
+to consider and examine whether the arm’s length price has been
+determined while taking into consideration the relevant guidelines under
+the Act and the Rules. Even the High Court can also examine the question
+of comparability of two companies or selection of filters and examine
+whether the same is done judiciously and on the basis of the relevant
+material/evidence on record. The High Court can also examine whether
+the comparable transactions have been taken into consideration properly
+or not, i.e., to the extent non-comparable transactions are considered as
+comparable transactions or not. Therefore, the view taken by the
+Karnataka High Court in the case of Softbrands India (P) Ltd. that in
+the transfer pricing matters, the determination of the arm’s length price
+by the Tribunal is final and cannot be subject matter of scrutiny under
+Section 260A of the IT Act cannot be accepted.
+8. Thus, in each case, the High Court should examine whether
+the guidelines laid down in the Act and the Rules are followed while
+
+A
+B
+C
+D
+E
+F
+G
+H
+443
+determining the arm’s length price. Therefore, we are of the opinion that
+the absolute proposition of law laid down by the Karnataka High Court
+in the case of Softbrands India (P) ltd. (supra) that in the matter of
+transfer pricing, determination of the arm’s length price by the Tribunal
+shall be final and cannot be subject matter of scrutiny and the High
+Court is precluded from examining the correctness of the determination
+of the arm’s length price by the Tribunal in an appeal under Section
+260A of the IT Act on the ground that it cannot be said to be raising a
+substantial question of law cannot be accepted. As observed hereinabove,
+within the parameters of Section 260A of the IT Act in an appeal
+challenging the determination of the arm’s length price, it is always open
+for the High Court to examine in each case whether while determining
+the arm’s length price, the guidelines laid down under the Act and the
+Rules, referred to hereinabove, are followed or not and whether the
+determination of the arm’s length price and the findings recorded by the
+Tribunal while determining the arm’s length price are perverse or not.
+9. In view of the above, the impugned judgments and orders passed
+by the High Court dismissing the Revenue’s appeals and even the appeals
+preferred by the assessees are required to be quashed and set aside and
+the matters are required to be remitted back to the concerned High
+Courts to decide and dispose of the respective appeals afresh in light of
+the observations made hereinabove and examine in each and every case
+whether the guidelines laid down under the Act and the Rules, referred
+to hereinabove, are followed while determining the arm’s length price by
+the Tribunal or not and to that extent whether the findings recorded by
+the Tribunal while determining the arm’s length price are perverse or
+not.
+10. In view of the above and for the reasons stated above, all
+these appeals are allowed. The impugned judgments and orders passed
+by the respective High Courts are hereby quashed and set aside. The
+matters are remitted back to the respective High Courts to decide and
+dispose of the appeals afresh in light of the observations made hereinabove
+and to examine whether in each case while determining the arm’s length
+price the guidelines laid down under the Act and the Rules, referred to
+hereinabove, are followed or not and whether the findings recorded by
+the Tribunal while determining the arm’s length price are perverse or
+not. The aforesaid exercise be completed, preferable within a period of
+nine months from the date of receipt of the present order by the respective
+SAP LABS INDIA PRIVATE LIMITED v. INCOME TAX
+OFFICER, CIRCLE 6, BANGALORE [M. R. SHAH, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+444
+SUPREME COURT REPORTS
+[2023] 4 S.C.R.
+High Courts. It is specifically observed that we have not entered into the
+merits of the cases at all and we have not expressed anything on the
+determination of the arm’s length price in case of respective assessees,
+either in favour of the assessees or in favour of the Revenue. It is
+ultimately for the concerned High Court to take a fresh decision, as
+observed hereinabove.
+11. All these appeals stand allowed in terms of the above. No
+costs.
+Nidhi Jain
+Appeals allowed.
+(Assisted by : Abhishek Pratap Singh and Tamana, LCRAs)
+

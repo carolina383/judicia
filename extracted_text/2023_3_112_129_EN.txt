@@ -1,0 +1,882 @@
+A
+B
+C
+D
+E
+F
+G
+H
+112
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+   [2023] 3 S.C.R. 112
+112
+THE STATE OF GUJARAT & ORS.
+v.
+MULTIPLEX ASSN. OF GUJARAT THROUGH ITS PRESIDENT
+(Civil Appeal No. 13977 of 2015)
+FEBRUARY 02, 2023
+[S. RAVINDRA BHAT AND DIPANKAR DATTA, JJ.]
+Tax/Taxation – Scheme to boost tourism sector, granted tax
+holiday for 5-10 years to entities (including multi-cinema theatre
+complexes or multiplexes) in respect of exemption from sales tax,
+turnover tax, electricity duty, luxury tax, and entertainment tax upto
+100% capital investment – No discerning method or mechanism of
+calculating exemption limits mentioned in scheme – Assessee
+contended that it was based on notional exercise, revenue contended
+that element of tax had to be added to actual amount collected –
+Held: High Court had rightly considered the issue and developed a
+reasonable workable method of notional calculation of quantified
+limit – Since assessee was not collecting any amounts as tax, no
+question of addition of further amount – Notional determination
+based on actual ticket collection for relevant period to be used to
+determine whether specified ceiling limit in scheme for exemption
+was achieved.
+Tax/Taxation – Tax exemption notification unambiguous w.r.t
+grant of exemption, and the terms of such relief (in terms of time,
+and monetary limits), but clear gap in the manner how tax exemption
+limits can be discerned, which if not construed appropriately, would
+defeat the intention of the notification – Interpretation of –
+Discussed.
+Doctrines/Principles – Doctrine of ‘substantial compliance’
+– Discussed.
+Interpretation of Statutes – Rules of procedure are meant to
+facilitate and not supplant justice.
+Dismissing the appeal, the Court
+HELD: 1.1 Neither the package nor the scheme (as
+embodied in the exemption notification) indicated the mechanism
+
+A
+B
+C
+D
+E
+F
+G
+H
+113
+for calculating how the exemption limits (100% capital
+investment) was calculable. The rate of tax at the relevant time
+was 50% of the entrance or ticket value. The assessee contended
+that calculation of total exemption was to be done based on a
+notional exercise, while the state’s contention was that since the
+assessee had the benefit of tax exemption, the element of tax
+had to be added to the actual amount collected. [Para 6-7 and
+9][119-C; 120-G-H]
+1.2 The High Court held that as multiplexes which availed
+of the exemption had in fact not collected amounts as tax, there
+was no question of addition of any further amount but rather that
+to reckon whether the ceiling limit in the scheme for exemption
+(100% capital investment) was achieved, was to be done by
+notional determination based on actual ticket collection for the
+relevant period. [Para 10][122-B-C]
+1.3 It is evident from the terms of the Scheme and
+exemption notification that the exemption is fixed to limits i.e.
+(1) a time limit and (2) quantification. The latter could be subject
+to the first i.e., in the event, the amount reached the exemption
+limit were achieved, before the expiry of the period in question
+(5-10 years), no further exemption could be claimed. The state,
+however, omitted to provide any mechanism to determine how
+the exemption limits could be worked out for the purpose of
+notional calculation of the quantified limit. This meant that a
+reasonable workable method of calculation had to be applied. [Para
+14][125-B-D]
+1.4 The state’s contention is founded on the assumption
+that the amount collected during the exemption period by the
+multiplex owners, also included in element of tax. This
+assumption is flawed because there could have been no collection
+which amounted to tax. Furthermore, multiplex/theatre-owners
+were under an obligation to file monthly returns in terms of the
+enactment. This would have taken care of any allegation of abuse.
+The state’s additional argument was that since the element of
+tax was notionally included in the collections – by multiplexes, -
+during the exempted period, a further amount equivalent to the
+tax collectable had to be added. High Court rightly held that this
+contention was illogical and unreasonable. [Para 15-16][125-D-
+F]
+THE STATE OF GUJARAT & ORS. v. MULTIPLEX ASSN. OF
+GUJARAT THROUGH ITS PRESIDENT
+
+A
+B
+C
+D
+E
+F
+G
+H
+114
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+1.5 There is concededly, a gap in the manner how tax
+exemption limits can be discerned. The law is now settled (by
+two constitution bench decisions) that exemption notifications
+have to be interpreted strictly, and against assessees in case of
+ambiguity. [Para 16][125-F-G]
+Commissioner of Central Excise, New Delhi v. Hari
+Chand Shri Gopal [2010] 13 SCR 820: (2011) 1 SCC
+236; Commissioner of Customs (Import), Mumbai v. Dilip
+Kumar and Company & Ors. [2018] 7 SCR 1191:
+(2018) 9 SCC 1 – followed.
+1.6 In the present case, the situation is peculiar, because
+the grant of exemption, and the terms of such relief (in terms of
+time, and monetary limits) are unambiguous. However, the
+procedure for calculation of the monetary limit is not prescribed
+at all. Therefore, the present case is not one of ambiguity, but
+instead, one of a clear gap, which if not construed appropriately,
+would defeat the intention of the notification. It has often been
+held – in the context of rules of procedures that they are meant
+to facilitate, not supplant justice and the court must lean towards
+substantial justice when faced with a complaint of procedural law.
+[Para 17-20][125-D-E; 127-D-E]
+Sangram Singh v. Election Tribunal, Kotah & Anr.
+[1955] 2 SCR 1; Ghanshyam Dass v. Dominion of India
+[1984] 3 SCR 229: (1984) 3 SCC 64; Sugandhi v. P.
+Rajkumar (2020) 10 SCC 706 – relied on.
+1.7 A reasonable method of calculating benefit of tax
+exemption, for the purpose of considering whether the 100%
+limit equivalent to capital expenditure was reached or not is to
+notionally determine the tax amounts payable during the relevant
+period, when the multiplexes enjoyed tax exemption. This is
+possible, having regard to the returns filed by them during the
+time when they sought and were granted exemption. The outer
+limit (100% investment) is a discernible amount, which the units
+would be able to furnish, with appropriate proof in their books of
+accounts, and valuations furnished by them. Clearly enunciating
+this principle and applying to the facts of this case, the High Court
+followed a reasonable method which cannot be faulted. [Para
+22][128-C-E]
+
+A
+B
+C
+D
+E
+F
+G
+H
+115
+Devi Multiplex & Anr. v. State Of Gujarat & Ors. (2015)
+9 SCC 132 : [2015] 6 SCR 1 – referred to.
+Case Law Reference
+[2015] 6 SCR 1
+referred to
+Para 2
+[2010] 13 SCR 820
+followed
+Para 16
+[2018] 7 SCR 1191
+followed
+Para 17
+[1955] 2 SCR 1
+relied on
+Para 18
+[1984] 3 SCR 229
+relied on
+Para 19
+CIVIL APPELLATE JURISDICTION :  Civil Appeal No.13977
+of 2015.
+From the Judgment and Order dated 26.06.2009 of the High Court
+of Gujarat at Ahmedabad in SCA No.5391 of 2004.
+S. K. Bagaria, Sr. Adv., Kumar Ajit Singh, Ms. Swati Ghildiyal,
+Ms. Devyani Bhatt, Advs. for the Appellants.
+Maninder Singh, Sr. Adv., M/s Khaitan & Co., Shreeyas Lalit,
+Gunjan Sharma, Kumar Mihir, Arnav Kumar, Advs. for the Respondent.
+The Judgment of the Court was delivered by
+S. RAVINDRA BHAT, J.
+1. This appeal by State of Gujarat, complains of the grievance
+with respect to a part of the impugned judgment1.
+2. This Court had occasion to deal with the substantial grievance
+of the present writ petitioner(s)/respondents, in a judgment reported in
+Devi Multiplex & another v State of Gujarat and Others2. The issue
+which concerns this Court in the present proceedings, with respect to
+the method of calculation or the method of determining the exemption
+limits under the scheme, extended by the State, to multiplexes, who had
+put up capital infrastructure. These incentives were by way of tax
+exemptions for a specified period. On the previous occasion, this court
+had adjudicated upon the grievance of the multiplex owners, regarding
+denial of extension of the scheme. This court held that the denial of
+1dated 26.06.2009 delivered by the Gujarat High Court in Special Civil Application
+No.5391 of 2004.
+2(2015) 9 SCC 132
+STHE STATE OF GUJARAT & ORS. v. MULTIPLEX ASSN. OF
+GUJARAT THROUGH ITS PRESIDENT
+
+A
+B
+C
+D
+E
+F
+G
+H
+116
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+extension (two years, which was sought by the multiplex owners) was
+in the circumstances, unjustified and had invoked the doctrine of
+promissory estoppel.
+3. For the sake of convenience, the court can do know better than
+extract para 2 of the judgment in Devi Multiplex (supra) which broadly
+outlines the incentive scheme, contained in the exemption notification
+issued by the State on 20.12.1995. The relevant part of the judgment is
+extracted below:
+“2. Since Civil Appeal No. 6478 of 2009 was taken as the
+lead matter, facts relating thereto are dealt with in detail
+hereafter. On 20-12-1995 the Government of Gujarat
+announced a policy named New Package Scheme of Incentives
+for Tourism Projects, 1995-2000 (hereafter referred to as “the
+Scheme”) with a view to make available all fiscal and non-
+fiscal incentives, reliefs and concessions enjoyed by industries
+to “tourism” which was accorded the status of an industry, in
+order to give a boost to tourism sector by attracting higher
+investment in the areas with tourism potential and to generate
+employment opportunities. Under Clause 2, the Scheme came
+into operation on 1-8-1995 and was to remain in force for a
+period of five years up to 31-7-2000. Under Clause 3, to be
+eligible, a new tourism unit ought to be registered after 1-8-
+1995. Clause 4.7 dealt with effective steps which such unit
+was expected to undertake. Under Clause 5, after taking
+initial effective steps a tourism unit could apply to the Director
+of Tourism for registration. All projects had to conform to the
+specifications and requirements spelt out in Appendix B which
+appendix dealt with various categories of tourism units and
+Item 22 thereof pertained to “Entertainment Complexes”
+including multi-cinema theatre complexes or multiplexes.
+Clause 7 categorised tourism units in four categories, namely,
+Prestigious Tourism Units, Large-scale Tourism Units, Small-
+scale Tourism Units and Tiny Tourism Units with minimum fixed
+capital investment of Rs 10 crores, 90 lakhs, 10 lakhs and
+less than 10 lakhs, respectively. Clause 8 dealt with incentives
+and stated that a tax holiday of 5-10 years would be available
+in respect of exemptions from (i) sales tax (ii) turnover tax
+(iii) electricity duty (iv) luxury tax, and (v) entertainment tax,
+
+A
+B
+C
+D
+E
+F
+G
+H
+117
+up to 100% of capital investment. In Clause 8.1 it was stated
+that the quantum of incentives would not exceed 100% of
+eligible capital investment and it further stated the period of
+eligibility in respect of prestigious tourism units, large-scale
+tourism units, small-scale tourism units and tiny tourism units
+to be 10 years, 8 years, 6 years and 5 years, respectively.
+Clause 9 dealt with composition of sanctioning authority
+whereunder State Level Committee was competent to issue
+eligibility certificate in respect of prestigious and large units
+while District Level Committee was to issue eligibility
+certificate for all small-scale and tiny tourism units. The
+procedure for registration of tourism units for incentives was
+detailed in Clause 10.”
+4. What is an issue in this case, is another part of the new Package
+Scheme i.e. proper manner of construing para 8 and 8.1 which, for the
+sake of convenience are produced below:
+“INCENTIVE
+A tax holiday of 5-10 years will be available to new units and
+expansion of existing units ( as per condition set out earlier)
+in respect of the following taxes, and upto 100% of capital
+investment. The tax Holiday will be available to units
+conforming to the list in Appendix B and falling within the
+eligible areas.
+List of taxes
+1. Exemption from Sales Tax.
+2. Exemption from Turnover tax.
+3. Exemption from Electricity Duty.
+4. Exemption from Luxury Tax.
+5. Exemption from Entertainment Tax.
+Exemption from sales tax is available with the following
+conditions:
+(a) Exemption towards taxes on raw materials, processing
+materials, consumable stores, packing materials are not
+available.
+(b) Only those goods which are sold at the first stage of sale
+by eligible unit will attract sales tax exemption.
+THE STATE OF GUJARAT & ORS. v. MULTIPLEX ASSN. OF
+GUJARAT THROUGH ITS PRESIDENT [S. RAVINDRA BHAT, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+118
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+(c) No exemption is available on purchases of any goods such
+as building materials, equipments or any other goods to be
+purchased for setting up of tourism project.
+8.1 Period of Eligibility\
+The quantum of incentives shall not exceed 100% of eligible
+capital investment. If the limits of incentives expire before the
+eligible period, the unit cannot avail of any further benefit.
+The eligible units will be made available a tax holiday for the
+period mentioned against each category of tourism unit as
+tabulated below:
+5. This Scheme was embodied in Exemption Notification dated
+14.02.1997, the relevant portion of which reads as follows:
+“NOW, THEREFORE, in exercise of the powers conferred
+by Sub-Section (1) of Section-29 of the Gujarat
+Entertainments Tax Act, 1977 (Guj.16 of 1977), (hereinafter
+referred to as “the said Act”) and in supersession of
+Government Notification, Information, 133 Broadcasting and
+Tourism Department No. (GHT.91.45) MNR-1391-285-E,
+dated 24th December, 1991 the Government of Gujarat hereby
+exempt wholly the tax on the entertainments which fulfils the
+criteria laid down in Appendix-B of the said resolution
+(hereinafter referred to as the eligible entertainment) during
+the eligible period or upto the period of expiry of the limits of
+incentives, whichever is earlier, to the extent referred to in
+para 8.1 of the said resolution, subject to the following
+conditions:-
+….
+
+A
+B
+C
+D
+E
+F
+G
+H
+119
+…
+15. The proprietor of a eligible entertainment shall be liable
+to pay tax as soon as the quantum of exemption availed of
+towards sales tax, turnover tax, electricity duty, luxury tax
+and entertainment tax equals the amount specified in the
+eligibility certificate issued by the Appropriate Authority or
+on expiry of the time limit mentioned in the. said certificate,
+whichever is earlier.”
+6. Neither the package nor the Scheme indicated the mechanism
+for calculating how the exemption limits (100% capital investment) was
+calculable. The rate of tax at the relevant time was 50% of the entrance
+or ticket value.
+7. The appellants’ contention was that the calculation of total
+exemption to be done based upon a notional exercise. Such determination
+was explained in the pleadings in the writ petition as follows:
+“In case of the new units which has invested an amount of
+Rs. 10 crores towards eligible capital investment. This amount
+of eligible capital investment is required to be adjusted against
+the amount of Tax exemption available under the present
+scheme/policy. If this unit is charging an amount of Rs. 100/-
+by way of admission fee to the multiplex theatre; and the
+amount of entertainment tax which it is liable to pay to the
+Government is Rs.50/-. This would mean that the owner of
+the unit is entitled to retain Rs. 50/- to enable him to defray
+the expenditure incurred by him for providing the facilities in
+the unit. The amount of Rs.50/- recovered by way of
+entertainment tax is required to be notionally adjusted against the
+amount of eligible capital investment till the amount of Rs. 10
+crores gets exhausted or till the expiry of a period of ten years
+whichever is earlier.”
+8. The same contention was urged before the High Court which
+recorded as under:
+“57. Mr. Nanavati further contended that even on merits, the
+impugned Circulars deserve to be quashed and set aside. Form
+17 which is the form of register of tickets not being
+complementary tickets, issued when tax is payable under
+THE STATE OF GUJARAT & ORS. v. MULTIPLEX ASSN. OF
+GUJARAT THROUGH ITS PRESIDENT [S. RAVINDRA BHAT, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+120
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+Section 3 of the Act, clearly stipulates mention of price of
+ticket including entertainment tax under Column 2, which also
+goes to show that the entertainment tax is payable on the
+gross receipt and there is no question of notionally calculating
+the tax. The returns submitted by few members of Multiplex
+Association would show that they have been showing the
+price of the ticket inclusive of tax and seeking exemption on
+the basis of the rate applicable by calculating tax on the
+receipt. Since beginning, the members of the Association have
+been filing monthly returns on the basis of tax calculated on
+the receipt made and the respondent authorities have been
+accepting the same without any objection. In the case of M/s.
+lnox Multiplex, the Mamlatdar, Vadodara has passed an
+assessment order by calculating tax on the total receipt i.e.
+for example for the period between 19.09.2003 and
+25.9.2003, the gross collection is Rs. 10,30,746/-. The
+Mamlatdar has assessed Rs.5,15,373/- as net tax payable at
+the rate of 50%. M/s. lnox Entertainment Limited, Vadodara
+was issued an ad hoc eligibility certificate for an amount of
+Rs.554.45 Lacs. For the purposes of calculating the amount
+of tax till the limit of Rs.554.45 Lacs, the Mamlatdar has
+considered 100% of the gross, collection i.e. on gross
+collection of Rs.4,32,268/-, the Mamlatdar has assessed a
+tax on Rs.4,32,268/-.”
+The claim in the writ petition inter alia was as follows:
+“(B) The Hon’ble Court may be pleased to issue a writ of
+mandamus or any other appropriate writ, order or direction
+directing the Respondents to consider only the amount of
+entertainment tax payable notionally by the members of the
+Petitioner Association to the Respondent State as the capital
+value for the purpose of setting off the eligible capital
+investment of the members of the Petitioner Association as
+contemplated under the scheme contained in the Resolution
+at Annexure-A hereto;”
+9. The state’s contention, on the other hand was that since the
+appellant had the benefit of tax exemption, the element of tax had to be
+added to the actual amount collected. This was sought to be urged by
+the State in its counter affidavit in following terms:
+
+A
+B
+C
+D
+E
+F
+G
+H
+121
+“5.5 In view of the aforesaid, it is respectfully submitted that
+section 3 envisages the rate of tax which is to be levied on the
+payment for admission to the entertainment. There is a 50%
+tax slab for the city having population of more than one lakh
+and 45% for the city having population less than one lakh. It
+is stated that all the entertainment units are charging
+Rs.100/- towards the payment for admission to entertainment
+only.
+To illustrate:
+         Payment of admission to entertainment = Rs.200/-
+less 50% of tax (as per S.3(i)
+= Rs.100/-
+         Total chargeable amount                       = Rs.100/-
+Hence, If the payment for admission to entertainment is
+less 50% of tax is deducted, the net chargeable amount comes
+to Rs.100/- (which, in the present case, is not collected by
+virtue of the provisions of the Act, tourism policy 1995- 2000,
+and notification).”
+…..
+“5.10 It is respectfully stated that if any entertainment unit is
+desirous of availing any benefit of the policy and notifications
+then in that case, the entertainment units will have to fall in
+line with the requirements provided in the said policy and
+notifications. The entertainment units will have to strictly
+adhere to the conditions mentioned in the notification and
+once having accepted the terms and conditions of the said
+notification for the purpose of availing of the tax exemption,
+they cannot now back out under the guise that what the
+entertainment units are charging towards entertainment tax
+cannot be recovered by the State Government. It is respectfully
+stated that any breach of any condition or non-compliance
+of any of the provisions of the statute, notifications and
+circulars would result in termination of exemption granted.
+At the cost of repetition, I say that to illustrate if Rs.100/- is
+charged for admission, then it has to be treated as a payment
+for admission to entertainment excluding tax. When the rate
+of tax is 50%, it has got to be notionally added to the basic
+THE STATE OF GUJARAT & ORS. v. MULTIPLEX ASSN. OF
+GUJARAT THROUGH ITS PRESIDENT [S. RAVINDRA BHAT, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+122
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+net ticket rate of Rs.100/ and it is that net ticket rate of Rs.100/
+- which would be benefit availed of and would be liable to be
+adjusted in terms of the notifications and Government
+resolutions.”
+10. The High Court agreed with the petitioners’ contention and
+held that as multiplexes which availed of the exemption, had in fact not
+collected amounts as tax, there were no question of addition of any
+further amount but rather that to reckon whether the 100% capital
+investment (the ceiling limit in the Scheme for exemption) was achieved
+was to be done by notional determination based upon the actual ticket
+collection for the relevant period. The finding of the High Court in this
+regard pertinently are as follows:
+“Clause 8 of the Scheme declares that “tax holiday of 5 to 1
+O years” will .be’ available in respect of various taxes
+including “exemption from entertainment upto 100% of capital
+investment. The said clause provides that the assessee viz ..
+the proprietor of an entertainment complex is exempted from
+paying the tax, payable by him under the Act, till tax is 100%
+sef off against the 100% value of the eligible capital
+investment made by the proprietor. The question which has
+arisen in the present petition is how the amount of “tax” should
+be determined for set off against the available tax incentives
+i.e. 100% of the eligible capital investments. The issue has
+arisen in context of the legal provision of the Gujarat
+Entertainment Tax Act. Section 3 of the Act is held to be a
+charging Section. It is held that liability for payment of duty
+is imposed upon the proprietor and not upon the visitors of
+the theater. The proprietor does not act as an agent of the
+Government’ for collection of duty. The entertainment duty is
+a payment which the proprietor is required to make as a
+condition for enabling visitors to attend or continue to attend
+the entertainment.
+Section 3 which levies fax provides for levy on “gross”
+payment received from consumer as is clear from the words
+of Section·3 and also as Interpreted in 1971 (1) SCC 471.
+The assessable value for determination of the tax liability
+is the payment received, irrespective of the break up of this
+amount, charged for admission to entertainment and tax
+payable thereon.
+
+A
+B
+C
+D
+E
+F
+G
+H
+123
+The entertainment tax being a taxing measure, and Section
+3 being a charging section, it has to be strictly construed
+and, therefore, liability to pay tax cannot be enlarged beyond
+what is provided in the Act.
+The multiplex cinemas in the ticket issued show that nothing’
+is received in the name of or on account of entertainment tax
+from the viewers. Therefore, in case of multiplex cinemas, the
+amount would be taxed under Section 3. In the tickets issued,
+payment of admission is shown as admission to entertainment,
+tax is shown as·”O”, service charges shown as “0” and total
+amount recoverable by and payable to the proprietor is Rs.100/
+·, Tax liability has to be, therefore, calculated on this amount
+i.e. Rs.100/- which would be at 50% payment for admission
+received from the viewers.
+Under the incentive, there is no special method of
+calculation of the tax liability prescribed as a condition of
+exemption for the purpose of setting off such tax liability
+against the incentive limit. This method is prescribed for the
+first time by the impugned Circulars in November/December,
+2000.”
+The final directions in this regard are as follows:
+“111. In view of the above discussion, we are of the view that
+the respondent-State is not justified in considering the entire
+amount of the value of the ticket as the capital value for the
+purpose of setting off the eligible capital investment of the
+members of the petitioner Association. We are also of the view
+that the amount collected by the members of the petitioner
+Association while permitting. the viewers to the Multiplex
+Theaters also includes an element of tax and hence, the
+applicable rate of tax so collected by the members of the
+petitioner Association are only required to be set off against
+the eligible investment under the Scheme. The entire amount
+of the value of the ticket cannot be considered as the capital
+value for the purpose of setting off the eligible capital
+investment. We are also of the view that the members who
+have not commenced their project within the stipulated time
+limit i.e. on or before 30.11.2002 as envisaged under the
+subsequent Resolution dated 28.06.2000 by virtue of which
+those cases have been considered as pipeline cases are not
+THE STATE OF GUJARAT & ORS. v. MULTIPLEX ASSN. OF
+GUJARAT THROUGH ITS PRESIDENT [S. RAVINDRA BHAT, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+124
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+entitled to the benefit under the Scheme and there is no infirmity
+in the order passed by the respondent authorities while
+rejecting their representation for extension of time. We are
+also of the view that the members who are entitled to the benefit
+of the Scheme are entitled to claim only the amount of capital
+investment made by them within the stipulated time limit i.e.
+30.11.2002. If any expenditure incurred by them subsequent
+to this time limit or investment made by them in such eligible
+project after 30.11.2002 cannot be considered as an eligible
+investment. The respondent authorities are, therefore, directed
+to give effect to this judgment and order and decide each
+case as per the directions issued here in this judgment and
+raise the demand against the petitioners. The demand so raised
+will have to be paid by the members of the Association within
+six weeks from thereof.”
+11. Mr. S.K. Bagaria, learned Senior Advocate for the State of
+Gujarat argued that a conjoint reading of Sections 3 and 29 of the Gujarat
+Entertainment Tax Act, 1977 clarifies that eligible units were granted
+exemption from payment of tax and that owners were required to charge
+only amounts towards payment for admission to entertainment which
+meant that no tax was actually collected. Therefore, if any unit or
+multiplex collected tax which it did not pass on to the state, that would
+not only be contrary to the public interest but would amount to unjust
+enrichment.
+12. It was submitted that the impugned judgment is in error in not
+appreciating that under Section 29 any entertainment or class of
+entertainment can be fully and partially exempted from payment of tax
+and that tax exemptions are given for a particular period, and multiplex
+and theaters’ owners were not allowed to collect taxes. The inclusion of
+element of tax, meant that they were allowed to retain such amounts.
+Therefore, the state was justified in urging the method of calculation
+whereby the tax element was added to the amount already collected, for
+the purpose of determining the exemption units.
+13. Mr. Maninder Singh, learned counsel for the respondent(s)/
+multiplex owners on the other hand urged that in the absence of any
+mechanism to determine the limit of exemption i.e. equivalent to 100%
+of the capital investment: which is an objective determinable fact, - having
+regard to the books of accounts and the documents available with the
+multiplex owners, a feasible and reasonable method had to be taken into
+
+A
+B
+C
+D
+E
+F
+G
+H
+125
+account. The only feasible method therefore was to notionally determine
+(only for the purpose of grant of exemption) by considering whether the
+100% exemption limit was achieved by a particular multiplex, the amount
+which could have been collected during the relevant period having
+regard to the aggregate actual collection during the entire period.
+Analysis and conclusions
+14. It is evident from the terms of the Scheme and the exemption
+notification which gave effect to it, fixed to limits i.e. (1) a time limit and
+(2) quantification of the exemption. The latter could be subject to the
+first i.e., in the event, the amount reached the exemption limit were
+achieved, before the expiry of the period in question (5-10 years), no
+further exemption could be claimed. The state, however, omitted to
+provide any mechanism to determine how the exemption limits could be
+worked out for the purpose of notional calculation of the quantified limit.
+This meant that a reasonable workable method of calculation had to be
+applied.
+15. The state’s contention is founded on the assumption that the
+amount collected during the exemption period by the multiplex owners,
+also included in element of tax. This assumption, in the opinion of this
+court is flawed because there could have been no collection which
+amounted to tax. Furthermore, multiplex/theatre-owners were under an
+obligation to file monthly returns in terms of the enactment. This would
+have taken care of any allegation of abuse. The state’s additional argument
+was that since the element of tax was notionally included in the collections
+– by multiplexes, -during the exempted period, a further amount equivalent
+to the tax collectable had to be added.
+16. As the High Court concluded- and in the opinion of this Court
+correctly so, this contention was bereft of any logic and was plainly
+unreasonable. There is concededly, a gap in the manner how tax
+exemption limits can be discerned. Undoubtedly, the law is now settled
+that exemption notifications have to be interpreted strictly, and against
+assesses in case of ambiguity. This rule was stated in Commissioner of
+Central Excise, New Delhi v. Hari Chand Shri Gopal3. The
+Constitution Bench, in that case, held that:
+“The law is well settled that a person who claims exemption
+or concession has to establish that he is entitled to that
+3 2011 (1) SCC 236
+THE STATE OF GUJARAT & ORS. v. MULTIPLEX ASSN. OF
+GUJARAT THROUGH ITS PRESIDENT [S. RAVINDRA BHAT, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+126
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+exemption or concession. A provision providing for an
+exemption, concession or exception, as the case may be, has
+to be construed strictly with certain exceptions depending
+upon the settings on which the provision has been placed in
+the statute and the object and purpose to be achieved. If
+exemption is available on complying with certain conditions,
+the conditions have to be complied with. The mandatory
+requirements of those conditions must be obeyed or fulfilled
+exactly, thought at times, some latitude can be shown, if there
+is failure to comply with some requirements which are directory
+in nature, the non-compliance of which would not affect the
+essence or substance of the notification granting exemption.”
+17. This was followed, later, in another five judge bench decision
+(Commissioner of Customs (Import), Mumbai vs. Dilip Kumar and
+Company & Ors4). In the present case, the situation is peculiar, because
+the grant of exemption, and the terms of such relief (in terms of time,
+and monetary limits) are unambiguous. However, the procedure for
+calculation of the monetary limit is not prescribed at all. Therefore, the
+present case is not one of ambiguity, but instead, one of a clear gap,
+which if not construed appropriately, would defeat the intention of the
+notification.
+18. It has often been held – in the context of rules of procedures
+that they are meant to facilitate, not supplant justice. In Sangram Singh
+v. Election Tribunal, Kotah & Anr5 this court stated:
+“16. ...It is procedure, something designed to facilitate justice
+and further its ends: not a penal enactment for punishment
+and penalties; not a thing designed to trip people up. Too
+technical a construction of Sections that leaves no room for
+reasonable elasticity of interpretation should therefore be
+guarded against (provided always that justice is done to both
+sides) lest the very means designed for the furtherance of
+justice be used to frustrate it.”
+19. Again, in Ghanshyam Dass v. Dominion of India6 the court
+elaborated upon the idea and intent of “adjective law” in dealing with
+Section 80 of the Civil Procedure Code:
+4 2018 (9) SCC 1
+5 (1955) 2 SCR 1
+6 (1984) 3 SCC 46
+
+A
+B
+C
+D
+E
+F
+G
+H
+127
+“12. In the ultimate analysis, the question as to whether a
+notice Under Section 80 of the Code is valid or not is a
+question of judicial construction. The Privy Council and this
+Court have applied the Rule of strict compliance in dealing
+with the question of identity of the person who issues the notice
+with the person who brings the suit. This Court has however
+adopted the Rule of substantial compliance in dealing with
+the requirement that there must be identity between the cause
+of action and the reliefs claimed in the notice as well as in the
+plaint. As already stated, the Court has held that notice under
+this Section should be held to be sufficient if it substantially
+fulfils its object of informing the parties concerned of the
+nature of the suit to be filed. On this principle, it has been
+held that though the terms of the Section have to be strictly
+complied with, that does not mean that the notice should be
+scrutinized in a pedantic manner divorced from common sense.
+The point to be considered is whether the notice gives sufficient
+information as to the nature of the claim such as would the
+recipient to avert the litigation.”
+20. Sugandhi v. P. Rajkumar7 also leaned in favour of substantial
+justice when it had to deal with complaint of breach of procedural law.
+21. Harichand Srigopal (supra) also propounded thetheory of
+substantial compliance, with provisions, while interpreting an exemption
+notification:
+“31. Of course, some of the provisions of an exemption
+notification may be directory in nature and some are
+mandatory in nature. A distinction between the provisions of
+a statute which are of substantive character and were built in
+with certain specific objectives of policy, on the one hand,
+and those which are merely procedural and technical in there
+nature, on the other, must be kept clearly distinguished...
+Doctrine of substantial compliance and “intended use”
+32. The doctrine of substantial compliance is a judicial
+invention, equitable in nature, designed to avoid hardship in
+cases where a party does all that can reasonably be expected
+of it, but failed or faulted in some minor or inconsequent
+aspects which cannot be described as the “essence” or the
+7 (2020) 10 SCC 706
+THE STATE OF GUJARAT & ORS. v. MULTIPLEX ASSN. OF
+GUJARAT THROUGH ITS PRESIDENT [S. RAVINDRA BHAT, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+128
+SUPREME COURT REPORTS
+[2023] 3 S.C.R.
+“substance” of the requirements. Like the concept of
+“reasonableness”, the acceptance or otherwise of a plea of
+“substantial compliance” depends upon the facts and
+circumstances of each case and the purpose and object to be
+achieved and the context of the prerequisites which are
+essential to achieve the object and purpose of the Rule or the
+Regulation. Such a defence cannot be pleased if a clear
+statutory prerequisite which effectuates the object and the
+purpose of the statute has not been met. Certainly, it means
+that the Court should determine whether the statute has been
+followed sufficiently so as to carry out the intent for which
+the statute was enacted and not a mirror image type of strict
+compliance. Substantial compliance means “actual compliance
+in respect to the substance essential to every reasonable
+objective of the statute” and the Court should determine
+whether the statute has been followed sufficiently so as to
+carry out the intent of the statute and accomplish the
+reasonable objectives for which it was passed.
+33. A fiscal statute generally seeks to preserve the need to
+comply strictly with regulatory requirements that are important,
+especially when a party seeks the benefits of an exemption
+Clause that are important. Substantial compliance with an
+enactment is insisted, where mandatory and directory
+requirements are lumped together, for in such a case, if
+mandatory requirements are complied with, it will be proper
+to say that the enactment has been substantially complied with
+notwithstanding 
+the 
+non-compliance 
+of 
+directory
+requirements. In cases where substantial compliance has been
+found, there has been actual compliance with the statute, albeit
+procedurally faulty. The doctrine of substantial compliance
+seeks to preserve the need to comply strictly with the conditions
+or requirements that are important to invoke a tax or duty
+exemption and to forgive non-compliance for either
+unimportant and tangential requirements or requirements that
+are so confusingly or incorrectly written that an earnest effort
+at compliance should be accepted.
+34. The test for determining the applicability of the substantial
+compliance doctrine has been the subject of a myriad of cases
+and quite often, the critical question to be examined is whether
+
+A
+B
+C
+D
+E
+F
+G
+H
+129
+the requirements relate to the “substance” or “essence” of
+the statute, if so, strict adherence to those requirements is a
+precondition to give effect to that doctrine. On the other hand,
+if the requirements are procedural or directory in that they
+are not of the “essence” of the thing to be done but are given
+with a view to the orderly conduct of business, they may be
+fulfilled by substantial, if not strict compliance. In other words,
+a mere attempted compliance may not be sufficient, but actual
+compliance with those factors which are considered as
+essential.”
+22. A reasonable method of calculating benefit of tax exemption,
+for the purpose of considering (whether the 100% limit equivalent to
+capital expenditure) was reached or not is to notionally determine the
+tax amounts payable during the relevant period, when the multiplexes
+enjoyed tax exemption. This is possible, having regard to the returns
+filed by them during the time when they sought and were granted
+exemption. The outer limit (100% investment) is a discernible amount,
+which the units would be able to furnish, with appropriate proof in their
+books of accounts, and valuations furnished by them. Clearly enunciating
+this principle and applying to the facts of this case, High Court has followed
+a reasonable method which cannot, in this court’s opinion, be faulted.
+23. For the above reasons, this court holds that there is no merit in
+this appeal. It is accordingly dismissed. No costs.
+Divya Pandey
+Appeal dismissed.
+THE STATE OF GUJARAT & ORS. v. MULTIPLEX ASSN. OF
+GUJARAT THROUGH ITS PRESIDENT [S. RAVINDRA BHAT, J.]
+

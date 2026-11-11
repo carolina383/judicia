@@ -1,0 +1,234 @@
+A
+B
+C
+D
+E
+F
+G
+H
+639
+   [2023] 5 S.C.R. 639
+639
+UTTAR HARYANA BIJLI VITRAN NIGAM LIMITED
+AND ANOTHER
+v.
+ADANI POWER (MUNDRA) LIMITED AND ANOTHER
+(Civil Appeal No. 5684 of 2021)
+APRIL 20, 2023
+[B. R. GAVAI AND VIKRAM NATH, JJ.]
+Electricity – Change in Law – A new regime for allocation of
+coal under SHAKTI Policy was brought into effect in 2017
+whereunder, the projects approved under the old regime were entitled
+to continue to get supply of 75% of the Assured Coal Quantity (ACQ)
+even beyond 31st March 2017 – Contending that there was a
+shortfall from 75% ACQ, first respondent filed petition claiming
+relief for shortfall on account of Change in Law – Claim allowed
+by CERC – Appeal filed by appellants before APTEL, dismissed –
+Held: All the grounds raised before APTEL were raised and
+considered, and held against DISCOMs in the appeals filed by
+Maharashtra State Electricity Distribution Company Limited –
+Findings given by APTEL in the present case are identical with the
+findings given in the judgment and order dtd.28.09.2020, upheld
+in C.A Nos. 677-678 of 2021 – Concurrent view taken by the CERC
+and APTEL is neither in ignorance of the mandatory statutory
+provisions nor based on extraneous consideration or ex-facie
+arbitrary/illegal – Thus, no interference warranted.
+Energy Watchdog v. Central Electricity Regulatory
+Commission and Others (2017) 14 SCC 80;
+Maharashtra State Electricity Distribution Company
+Limited (MSEDCL) v. Adani Power Maharashtra Limited
+(APML) and Others 2023 SCC OnLine SC 233 –
+referred to.
+Case Law Reference
+(2017) 14 SCC 80
+referred to
+Para 3
+CIVIL APPELLATE JURISDICTION : Civil Appeal No.5684
+of 2021.
+From the Judgment and Order dated 30.06.2021 of the Appellate
+Tribunal for Electricity, New Delhi in Appeal No.358 of 2019.
+
+A
+B
+C
+D
+E
+F
+G
+H
+640
+SUPREME COURT REPORTS
+[2023] 5 S.C.R.
+M. G. Ramachandran, G. Umapathy, Niranjan Reddy, Dr. A.M.
+Singhvi, Darius J. Khambata, Sajan Poovayya, Vikram Nankani, Sr. Advs.,
+Ms. Poorva Saigal, Shubham Arya, Nikunj Dayal, Ms. Pallavi Saigal,
+Ravi Nair, Ms. Shikha Sood, Ms. Reeha Singh, Ms. Anumeha Smiti,
+Aneesh Bajaj, Anup Jain, Udit Gupta for M/s. Udit Kishan and Associates,
+Vishrov Mukherjee, Pukhrambam Ramesh Kumar, Yashaswi Kant, Karun
+Sharma, Ms. Juhi Senguttuvan,  Mahesh Agarwal, Amit Kapur, Ms.
+Poonam Sengupta, Avishkar Singhvi, Arshit Anand, Saunak Rajguru,
+Aman Sharma, Ms. Aparajita, Ms. Deepshikha Mishra, Ankitesh Ojha,
+Karan Rukhana, E. C. Agrawala, Ms. Pallavi Sharma, Advs. for the
+appearing parties.
+The Judgment of the Court was delivered by
+B. R. GAVAI, J.
+1. The present appeal challenges the judgment and order dated
+30th June 2021, passed by the Appellate Tribunal for Electricity, New
+Delhi (hereinafter referred to as “APTEL”) in Appeal No. 358 of 2019,
+thereby dismissing the appeal filed by the Uttar Haryana Bijli Vitran
+Nigam Limited and Dakshin Haryana Bijli Vitran Nigam Ltd. (hereinafter
+referred to as “Haryana Utilities”), appellants herein, and maintaining
+the judgment and order dated 13th June 2019 passed by the Central
+Electricity Regulatory Commission (hereinafter referred to as “CERC”)
+in Petition No. 251/MP/2018.
+2. The facts, in brief, giving rise to the present appeal are as
+under:
+Haryana Utilities had entered into two Power Purchase
+Agreements (for short, “PPA”) dated 7th August 2008 with the first
+respondent-Adani Power (Mundra) Limited (hereinafter referred to as
+“AP(M)L”) for a contracted capacity of 1424 MW from the generating
+Units 7, 8 and 9 established by AP(M)L in the State of Gujarat on the
+terms and conditions contained in the said PPAs. The said PPAs were
+entered into between Haryana Utilities and AP(M)L in pursuance to a
+Tariff Based Competitive Bidding Process initiated by the Haryana
+Utilities under Section 63 of the Electricity Act, 2003 as per the guidelines
+notified by the Central Government.
+3. AP(M)L filed a petition being Petition No. 155/MP/2012 on 5th
+July 2012 seeking, inter alia, relief of increase in tariff from the quoted
+tariff mentioned in the bid on various grounds. The CERC had passed
+
+A
+B
+C
+D
+E
+F
+G
+H
+641
+orders in the said petition on 2nd April 2013 and 21st February 2014. The
+said orders were challenged before the APTEL. Finally, a batch of appeals
+challenging the order of APTEL reached this Court by way of Civil
+Appeal Nos. 5399-5400 of 2016. This Court, in the case of Energy
+Watchdog v. Central Electricity Regulatory Commission and Others1
+decided on 11th April 2017, observed thus:
+“57. Both the letter dated 31-7-2013 and the revised Tariff Policy
+are statutory documents being issued under Section 3 of the Act
+and have the force of law. This being so, it is clear that so far as
+the procurement of Indian coal is concerned, to the extent that
+the supply from Coal India and other Indian sources is cut down,
+the PPA read with these documents provides in Clause 13.2 that
+while determining the consequences of change in law, parties shall
+have due regard to the principle that the purpose of compensating
+the party affected by such change in law is to restore, through
+monthly tariff payments, the affected party to the economic position
+as if such change in law has not occurred. Further, for the operation
+period of the PPA, compensation for any increase/decrease in
+cost to the seller shall be determined and be effective from such
+date as decided by the Central Electricity Regulation Commission.
+This being the case, we are of the view that though change in
+Indonesian law would not qualify as a change in law under the
+guidelines read with the PPA, change in Indian law certainly would.
+58. ……….The Central Electricity Regulatory Commission will,
+as a result of this judgment, go into the matter afresh and determine
+what relief should be granted to those power generators who fall
+within Clause 13 of the PPA as has been held by us in this
+judgment.”
+4. In pursuance to the aforesaid order passed by this Court,
+AP(M)L filed a petition being Petition No. 97/MP/2017 before the CERC,
+claiming relief on the ground of Change in Law. The CERC, vide order
+dated 31st May 2018, allowed the said petition in terms of Change in
+Law.
+5. A review petition being Review Petition No. 24/RP/2018 was
+also filed by the Haryana Utilities before the CERC. The CERC, vide
+judgment and order dated 3rd December 2018, rejected the said review
+1(2017) 14 SCC 80
+UTTAR HARYANA BIJLI VITRAN NIGAM LTD. v. ADANI
+POWER (MUNDRA) LTD. [B. R. GAVAI, J.]
+
+A
+B
+C
+D
+E
+F
+G
+H
+642
+SUPREME COURT REPORTS
+[2023] 5 S.C.R.
+petition. Being aggrieved thereby, the appellants filed an appeal before
+the APTEL. The APTEL, vide judgment and order dated 3rd November
+2020, dismissed the said appeal. Challenging the same, Civil Appeal No.
+4143 of 2020 came to be filed before this Court. By an order of even
+date, this Court dismissed the said appeal.
+6. In the meantime, the Ministry of Coal, Government of India
+(for short, “MoC”), on 22nd May 2017, brought into effect a new regime
+for allocation of coal under SHAKTI Policy. Under SHAKTI Policy,
+the projects, which were approved under the old regime, were entitled
+to continue to get supply of 75% of the Assured Coal Quantity (for
+short, “ACQ”) even beyond 31st March 2017.
+7. Contending that there was a shortfall from 75% ACQ, AP(M)L
+filed a petition being Petition No. 251/MP/2018 claiming relief for shortfall
+on account of Change in Law. The CERC, vide order dated 13th June
+2019 allowed the said claim. Being aggrieved thereby, an appeal, being
+Appeal No. 358 of 2019, was filed before the APTEL.
+8. Three basic grounds, along with other grounds, were raised
+before the APTEL. The first ground was that the SHAKTI Policy could
+not be considered to be Change in Law. The second ground was that the
+AP(M)L had not given a Notice of Change in Law and, as such, was not
+entitled to the benefit on the ground of Change in Law. The third ground
+was with regard to award of Carrying Cost. The APTEL, vide impugned
+judgment and order dated 30th June 2021, dismissed the said appeal.
+9. Being aggrieved thereby, the Haryana Utilities have preferred
+the present appeal.
+10. By an order of even date, we have decided the appeals filed
+by Maharashtra State Electricity Distribution Company Limited
+(MSEDCL), wherein all these grounds were raised and considered, and
+held against DISCOMs. The findings given by the APTEL in the present
+appeal are identical with the findings given in the judgment and order
+dated 28th September 2020, which has been upheld by us in Civil Appeal
+Nos. 677-678 of 2021.
+11. It will further be relevant to note that the present appeal arises
+out of concurrent findings of fact arrived at by both the authorities.
+12. This Court, in the case of Maharashtra State Electricity
+Distribution Company Limited (MSEDCL) v. Adani Power
+
+A
+B
+C
+D
+E
+F
+G
+H
+643
+2 2023 SCC OnLine SC 233
+Maharashtra Limited (APML) and Others2, after considering the
+relevant provisions under the Electricity Act, 2003 with regard to
+appointment, qualifications and Members of the CEA, CERC and the
+learned APTEL, held that these bodies are bodies consisting of experts
+in the field. After considering various judgments on the issue, this Court
+observed thus:
+“123. Recently, the Constitution Bench of this Court in the case
+of Vivek Narayan Sharma v. Union of India has held that the
+Courts should be slow in interfering with the decisions taken by
+the experts in the field and unless it is found that the expert bodies
+have failed to take into consideration the mandatory statutory
+provisions or the decisions taken are based on extraneous
+considerations or they are ex facie arbitrary and illegal, it will not
+be appropriate for this Court to substitute its views with that of
+the expert bodies.”
+13. In our opinion, the concurrent view taken by the CERC &
+APTEL cannot be said to be a view taken in ignorance of the mandatory
+statutory provisions nor can it be said that it is based on extraneous
+consideration. The view also cannot be said to be ex-facie arbitrary or
+illegal. As such, no interference would be warranted in the present appeal.
+14. In the result, the appeal is dismissed. Pending application(s), if
+any, shall stand disposed of. No costs.
+Divya Pandey
+Appeal dismissed.
+(Assisted by : Roopanshi Virang, LCRA)
+UTTAR HARYANA BIJLI VITRAN NIGAM LTD. v. ADANI
+POWER (MUNDRA) LTD. [B. R. GAVAI, J.]
+

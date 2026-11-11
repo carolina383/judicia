@@ -1,0 +1,472 @@
+[2023] 14 S.C.R. 374 : 2023 INSC 790
+374
+CASE DETAILS
+FULMATI DHRAMDEV YADAV & ANR.
+v.
+NEW INDIA ASSURANCE CO. LTD. & ANR.
+(Civil Appeal No. 4713 of 2023)
+SEPTEMBER 04, 2023
+[ABHAY S. OKA AND SANJAY KAROL, JJ.]
+HEADNOTES
+Issue for consideration: The order of the High Court setting aside 
+the order of the Commissioner awarding compensation in favour of legal 
+representatives of the deceased employee.
+Employee's Compensation Act, 1923 – Victim died as he was 
+tying up logs on trailer – The Commissioner directed insurer to pay 
+compensation of ₹3,94,120/- and the employer was directed to pay 
+₹1,97,060/-, i.e., 50% of the compensation amount as penalty – High 
+Court set aside the order of the Commissioner – Propriety:
+Held: A bare perusal of the impugned judgment shows that the High 
+Court did not frame any substantial question of law – The wording of the 
+Act indicates that the existence of such a question is a prerequisite to the 
+appeal being entertained – The diﬀ erence, between the two judgments, i.e., 
+the order of the Commissioner and the judgment in First Appeal, was on the 
+point of the employer-employee relationship having been established – The 
+Commissioner held such relationship to have been established however, 
+the appeal Court observed that “claimants have clearly failed to prove this 
+aspect” – The Commissioner had not returned any ﬁ ndings in respect of the 
+validity of non-availability of the license of the deceased nor was it one of 
+the questions framed by the Commissioner for consideration – In such a 
+situation, while exercising powers within the limited purview allowed by 
+section 30 of the Act, the Court below erred in making observations – It 
+is settled that Commissioner is the last authority on facts involved in a 
+case – The circumstances, i.e., the presence of the deceased at the spot; 
+the ownership of the trolley and the goods loaded therein; the presence 
+
+375
+of this supervisor of the employer company; and details mentioned in the 
+inquest panchnama form, when considered together, point to the aspect of 
+the deceased person being on the roll of the employer – Keeping with the 
+principles of the legislation being intended for social welfare and protection 
+of employees; the Commissioner being the last authority on facts; the scope 
+of an appeal under the said Act being limited only to substantial questions 
+of law; and no perversity could be demonstrated from the order of the 
+Commissioner. [Paras 18, 19, 21, 22, 29, 32]
+Employee's Compensation Act, 1923 – s.30 – An appeal from an 
+order Commissioner – To be entertained if there exists a substantial 
+question of law: 
+Held: The Act is unequivocal in stating that an appeal from an order of 
+Commissioner can be entertained only if there exists a substantial question 
+of law to be considered – It has been observed by the Supreme Court that 
+the phrase “substantial question of law” within this Act shall be understood 
+by its general meaning – When considering the general meaning of this 
+phrase, naturally, the reference is to the Code of Civil Procedure – The 
+rule therein is that framing of a substantial question of law is of cardinal 
+importance. [Para 17]
+LIST OF CITATIONS AND OTHER REFERENCES
+North – East Karnataka Road Transport Corporation v. Sujatha (2019) 
+11 SCC 514 : [2018] 13 SCR 1043; C. Manjamma v. New India Assurance 
+Co. Ltd. (2022) 6 SCC 206; K. Sivaraman v. P. Sathishkumar (2020) 4 SCC 
+594 : [2020] 4 SCR 480 – relied on.
+Om Prakash Batish v. Ranjit (2008) 12 SCC 212 : [2008] 6 SCR 938; 
+Golla Rajamma & Ors. v. Divisional Manager & Anr. (2017) 1 SCC 45 : 
+[2016] 9 SCR 469 – referred to.
+OTHER CASE DETAILS INCLUDING IMPUGNED 
+ORDER AND APPEARANCES
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 4713 of 2023.
+From the Judgment and Order dated 28.02.2019 of the High Court of 
+Gujarat at Ahmedabad in FA No.3487 of 2013.
+FULMATI DHRAMDEV YADAV & ANR. v. NEW INDIA 
+ASSURANCE CO. LTD. & ANR.
+
+376 
+SUPREME COURT REPORTS 
+[2023] 14 S.C.R.
+Appearances:
+Shreyas Mehrotra, Ms. Savita Sinha, Rahul Gupta, Advs. for the 
+Appellants.
+Dr. Meera Agarwal, Ramesh Chandra Mishra, Advs. for the 
+Respondents.
+JUDGMENT / ORDER OF THE SUPREME COURT
+JUDGMENT
+SANJAY KAROL J.,
+1. This appeal is ﬁ led at the instance of one Fulmati Dhramdev Yadav, 
+assailing the judgement passed by the High Court of Gujarat at Ahmedabad 
+in First Appeal No.3487 of 2013 whereby the Court has set aside the order 
+of the Commissioner for Workmen Compensation Act, Bhuj (Kutch), 
+Gujarat in W.C.F.C. No.08/10 awarding compensation in favour of legal 
+representatives of the deceased employee. 
+2. Appellants herein1 are the mother and wife of one Ramakant Yadav2 
+who allegedly died on 31st October, 2009 as he was tying up logs on trailer 
+while in employment as its driver, when one such log fell on his left leg. 
+He died before any medical treatment could be given to him.
+3. The deceased, allegedly, was an employee of Kutch Carrier 
+(Sohansing & Sons3), drawing a salary of ₹4000 per month. 
+4. Such employment of the deceased was denied by the insurer for 
+lack of production of documents of employment. Neither has any proof of 
+income of the deceased been produced. 
+5. The claim of ₹3,94,120/- is denied in the above terms, by the Insurer-
+respondents herein.
+Order of the Commissioner 
+6. Feeling aggrieved by the denial of the claim, proceedings were 
+1 
+Hereinafter referred to as “the claimants”
+2 
+Hereinafter referred to as “ the deceased”
+3 
+Hereinafter referred to as “the employer”. Opponent 1 before the Commissioner
+
+377
+initiated by the claimants herein before the Commissioner, Workmen 
+Compensation Act, Bhuj (Kutch), Gujarat in terms of W.C.F.C.No.08/10. The 
+Commissioner framed 8 issues for consideration. The tabular representation 
+below represents the issues framed, the reasoning thereon and the ﬁ ndings 
+returned.
+S.No
+Issue
+Order
+Reasoning
+1.
+W h e t h e r p r e s e n t 
+applicants are legal 
+heirs and dependant of 
+deceased?
+Aﬃ  rmative
+Claimants are dependants 
+and Legal heirs of 
+deceased. 
+2.
+Whether deceased was 
+employee of Employer?
+Aﬃ  rmative
+FIR in question reveals 
+name of the deceased as 
+a driver performing duty 
+of Employer.
+3.
+W h e t h e r a c c i d e n t 
+occurred during course 
+of employment? If yes, 
+then deceased died due to 
+injuries in accident?
+Aﬃ  rmative
+No document contrary 
+shown by Employer.
+4.
+Whether age is proved 
+at the time of accident? 
+and monthly income of 
+₹4,000/- is proved?
+3 5 y e a r s & 
+salary ₹4,000/-
+Age aﬃ  rmed by Driving 
+License indicating date 
+of birth as 01-05-74. 
+Also no adverse evidence 
+shown by Insurer. On 
+salary being ₹4,000/- 
+p.m. reliance was placed 
+on deposition of Ex-19.
+5.
+Whether opponents are 
+liable to compensation 
+amount? If yes, then what 
+amount?
+Aﬃ  rmative
+Awarded compensation 
+of ₹3,94,120/- on the 
+ground that deceased 
+died during the course 
+and out of employment 
+as ownership truck 
+was also insured by the 
+insurer as per documents 
+placed by the claimant. 
+FULMATI DHRAMDEV YADAV & ANR. v. NEW INDIA 
+ASSURANCE CO. LTD. & ANR. [SANJAY KAROL J.]
+
+378 
+SUPREME COURT REPORTS 
+[2023] 14 S.C.R.
+6.
+What is the responsibility 
+of insurance co.?
+Aﬃ  rmative
+Deceased was employed 
+as a driver with the 
+employer on vehicle 
+no. GJ-12w7670. The 
+vehicle being insured, 
+the insurer was to pay 
+9% interest from date of 
+accident.
+7.
+Whether opponents 
+are negligent to pay 
+compensation? If yes, 
+then are they liable to pay 
+penalty and interest?
+Aﬃ  rmative
+Employer while being in 
+knowledge of accident 
+did not pay compensation 
+to claimant within 30 
+days of the accident 
+as per the Workmen 
+Compensation Act hence 
+Penalty @ 50% was 
+imposed amounting to 
+₹1,97,060/-.
+8.
+What is ﬁ nal order?
+Aﬃ  rmative
+₹3000/- for expenses 
+and ₹5000/- for funeral 
+expenses to be paid to the 
+claimant.
+7. In terms of the above, the Insurer-New India Assurance Co. Ltd.4 was 
+directed to pay as compensation₹3,94,120/-with interest accruing thereupon 
+from the date of the death of the deceased @9%. The same was to be paid 
+within 30 days of the order. The employer was directed to pay ₹1,97,060/-, 
+i.e., 50% of the compensation amount as penalty. Further, it was directed 
+that the latter would pay ₹8000/- (with breakup of ₹3,000/- and ₹5,000/-) 
+for expenses and funeral expenses, particularly.
+8. Only the Insurer appealed against this order.
+First Appeal-Impugned Judgement
+9. It may be noted that during the pendency of the First Appeal, vide 
+an order dated 25th June, 2014 passed in Civil Application No. 2822 of 
+2013 the Commissioner was directed to invest 80% of the amount that was 
+4 
+Hereinafter referred to as “Insurer”
+
+379
+deposited with such authority in cumulative ﬁ xed deposits for an initial 
+period of three years, to be renewed from time to time and the remaining 
+20% to be disbursed to the claimants.
+10. Having considered the evidence on record such as an abstract of 
+the accidental death register of the Gandhigram “A” division police station, 
+and the cross-examination of the claimant i.e., wife of the deceased, as well 
+as the other documents produced, which, the learned Court concluded that 
+the deceased was neither working with the employer nor on the date of the 
+occurrence of the incident, received injuries and died, as a result thereof. 
+11. Hence, the order of the Commissioner was set aside. 
+12. Thus, the present appeal.
+13. By way of the special leave petition it has been urged amongst 
+other grounds, that the Court in First Appeal has transgressed the conﬁ nes 
+of Section 30 of the Workmen Compensation Act, 19235; the vehicle 
+in which the logs were stored and thus were being untied, was insured 
+and therefore, the accident having taken place is within the ambit of the 
+insurance company’s responsibilities; that the impugned judgement has left 
+the Claimants remediless and sans any support since the sole breadwinner 
+of the family had passed away. 
+Analysis and Consideration
+14. The act governing the present dispute, i.e., the Workmen 
+Compensation Act, 1923, has been, vide The Workmen’s Compensation 
+(Amendment) Act, 2009, amended, by which the word “workmen” has been 
+substituted by “employees” rechristened as the Employees Compensation 
+Act, 1923.
+15. What this Court must consider is whether the impugned judgement 
+is sustainable in law? On merits, the consideration would be whether the 
+order of the Commissioner, in light of the materials on record, can stand 
+or not? In other words, the impugned judgement must stand true on two 
+grounds, (i) statutory text; and (ii) whether the materials on record support 
+the conclusion drawn therein or not?
+5 
+Hereafter, the Act
+FULMATI DHRAMDEV YADAV & ANR. v. NEW INDIA 
+ASSURANCE CO. LTD. & ANR. [SANJAY KAROL J.]
+
+380 
+SUPREME COURT REPORTS 
+[2023] 14 S.C.R.
+16. Appeals within the act are governed by Section 30 which is 
+extracted below for reference: – 
+“30. Appeals. — (1) An appeal shall lie to the High Court from the 
+following orders of a Commissioner, namely :— 
+an order awarding as compensation a lump sum whether by way of 
+redemption of a half monthly payment or otherwise or disallowing a 
+claim in full or in part for a lump sum; 
+1 [(aa) an order awarding interest or penalty under section 4A;] 
+(b) an order refusing to allow redemption of a half-monthly payment; 
+(c) an order providing for the distribution of compensation among the 
+dependants of a deceased 6 [employee], or disallowing any claim of 
+a person alleging himself to be such dependant; 
+(d) an order allowing or disallowing any claim for the amount of an 
+indemnity under the provisions of sub-section (2) of section 12; or 
+(e) an order refusing to register a memorandum of agreement or 
+registering the same or providing for the registration of the same 
+subject to conditions:
+Provided that no appeal shall lie against any order unless a substantial 
+question of law is involved in the appeal and, in the case of an order 
+other than an order such as is referred to in clause (b), unless the amount 
+in dispute in the appeal is not less than 2 [ten thousand rupees or such 
+higher amount as the Central Government may, by notiﬁ cation in the 
+Oﬃ  cial Gazette, specify]: 
+Provided, further, that no appeal shall lie in any case in which the 
+parties have agreed to abide by the decision of the Commissioner, or 
+in which the order of the Commissioner gives eﬀ ect to an agreement 
+come to by the parties: 
+3[Provided further that no appeal by an employer under clause 
+(a) shall lie unless the memorandum of appeal is accompanied by a 
+certiﬁ cate by the Commissioner to the eﬀ ect that the appellant has 
+deposited with him the amount payable under the order appealed 
+against.] 
+
+381
+(2) The period of limitation for an appeal under this section shall be 
+sixty days. 
+(3) The provisions of section 5 of 4 [the Indian Limitation Act, 1963 
+(36 of 1963)] shall be applicable to appeals under this section.” 
+(Emphasis Supplied)
+17. The Act is unequivocal in stating that an appeal from an order of 
+Commissioner can be entertained only if there exists a substantial question 
+of law to be considered. It has been observed by this Court that the phrase 
+“substantial question of law” within this Act shall be understood by its 
+general meaning.6 When considering the general meaning of this phrase, 
+naturally, the reference is to the Code of Civil Procedure (CPC). The 
+rule therein is that framing of a substantial question of law is of cardinal 
+importance. 
+18. A bare perusal of the impugned judgement shows that the Court 
+did not frame any such question. 
+19. The wording of the Act indicates that the existence of such a 
+question is a prerequisite to the appeal being entertained. 
+20. Illustratively, in North – East Karnataka Road Transport 
+Corporation v. Sujatha7 (Two-Judge Bench) amongst numerous other 
+cases, this Court has observed: 
+“12. In other words, the appeal provided under Section 30 of the Act 
+to the High Court against the order of the Commissioner is not like a 
+regular ﬁ rst appeal akin to Section 96 of the Code of Civil Procedure, 
+1908 which can be heard both on facts and law. The appellate 
+jurisdiction of the High Court to decide the appeal is conﬁ ned only to 
+examine the substantial questions of law arising in the case.”
+21. The other ground making the order under challenge, amenable 
+to interference when the scope of jurisdiction is circumscribed by it being 
+exercised only in cases of “substantial question of law”, is perversity in 
+the ﬁ ndings. Here, the impugned judgement does not, even remotely, 
+6 
+Om Prakash Batish v. Ranjit (2008) 12 SCC 212 (2 judge-bench)
+7 
+(2019) 11 SCC 514
+FULMATI DHRAMDEV YADAV & ANR. v. NEW INDIA 
+ASSURANCE CO. LTD. & ANR. [SANJAY KAROL J.]
+
+382 
+SUPREME COURT REPORTS 
+[2023] 14 S.C.R.
+reﬂ ect the observation that the ﬁ ndings arrived at by the Commissioner 
+are perverse. The diﬀ erence, between the two judgements, i.e., the order 
+of the Commissioner and the judgment in First Appeal, was on the point 
+of the employer-employee relationship having been established. The 
+Commissioner held such relationship to have been established however, 
+the appeal Court observed that “claimants have clearly failed to prove 
+this aspect”
+22. It may here only be noted that the Commissioner had not returned 
+any ﬁ ndings in respect of the validity of non-availability of the license of 
+the deceased nor was it one of the questions framed by the Commissioner 
+for consideration. In such a situation, while exercising powers within the 
+limited purview allowed by section 30 of the Act, the learned Court below 
+erred in making observations and giving a holding in that regard.
+23. It has also been observed by this Court that the Commissioner is 
+the last authority on facts involved in a case. In Golla Rajamma & Ors. v. 
+Divisional Manager & Anr.8 (2-Judge Bench) it was observed that “under 
+the scheme of the Act, the Workmen’s Compensation Commissioner is the 
+last authority on facts. Parliament has thought it ﬁ t to restrict the scope of 
+the appeal only to substantial questions of law, being a welfare legislation. 
+Unfortunately, the High Court has missed this crucial question of limited 
+jurisdiction and has ventured to reappreciate the evidence and recorded its 
+own ﬁ ndings on percentage of disability for which also there is no basis. 
+The whole exercise made by the High Court is not within the competence 
+of the High Court under Section 30 of the Act.”
+24. Keeping in view the said principles, the impugned judgement, 
+ex-facie, appears to be in contravention thereto.
+25. On merits too, we ﬁ nd that the conclusions arrived at by the 
+Commissioner, were undoubtedly “a possible view”, therefore extinguishing 
+the possibility of perversity in ﬁ ndings.
+26. A Bench of two learned Judges observed in C. Manjamma v. New 
+India Assurance Co. Ltd.9
+8 
+(2017) 1 SCC 45
+9 
+(2022) 6 SCC 206
+
+383
+“15. That being the position, the view taken by the Commissioner 
+had been a possible view of the matter in the given set of facts 
+and circumstances; and there was no reason for the High Court to 
+interfere with the same, particularly when the case did not involve 
+any substantial question of law within the meaning of Section 30 of 
+Employees Compensation Act, 1933.”
+27. From the materials available on record before the Commissioner 
+as described in the order, it certainly will not be an improbable, much less 
+an impossible, conclusion that the deceased was on the pay-roll of the 
+employer. Prima facie, the question that arises and remains un-addressed 
+throughout was, as to what the deceased was doing with the trolley as also 
+the goods laden on it, which he was tying or untying at the time of his 
+death. Second, the aﬃ  davit placed before the Commissioner categorically 
+stated that deceased was an employee of the employer. It has been noted 
+by the Commissioner, in his consideration of the second issue that, no 
+written statement had been ﬁ led nor had the version of the Applicants been 
+challenged by the employer; and even though the Respondents herein had 
+denied the facts as stated in the petition and cross examined the Applicants, 
+“but no adverse facts proved” by and “no adverse document produced” by 
+the Insurer to rebut the contents of the claim petition
+28. Additionally, having gone through the record we ﬁ nd that in the 
+Panchnama of the place of occurrence10, it has been recorded that there 
+was only one person present at the spot. He was Sunilbhai Ramjibhai 
+Ahir and was serving as a supervisor in the company of the employer. The 
+inquest panchnama form11 also names the employer company. The address 
+mentioned, with which the deceased was associated as also the person who 
+has identiﬁ ed the corpse of the deceased, for both of them it corresponds to 
+that of the employer company.
+29. The circumstances, i.e., the presence of the deceased at the spot; 
+the ownership of the trolley and the goods loaded therein; the presence 
+of this supervisor of the employer company; and details mentioned in the 
+10 Annexure P – 1 at page 23
+11 annexure P – 6 at page 9 of application to place on record additional documents
+FULMATI DHRAMDEV YADAV & ANR. v. NEW INDIA 
+ASSURANCE CO. LTD. & ANR. [SANJAY KAROL J.]
+
+384 
+SUPREME COURT REPORTS 
+[2023] 14 S.C.R.
+inquest panchnama form, when considered together, point to the aspect of 
+the deceased person being on the roll of the employer.
+30. It is well-established that the Act is a social welfare legislation and, 
+therefore, it must be given a beneﬁ cial construction. Matters thereunder are 
+to be adjudicated with due process of law and also with a keen awareness of 
+the scope and intent of the act. This Court has, time and again, reiterated this 
+principle. We may refer to K. Sivaraman v. P. Sathishkumar12 wherein, 
+speaking for the Court, Dr. D.Y Chandrachud J., observed: –
+“25. The 1923 Act is a social beneﬁ cial legislation and its provisions 
+and amendments thereto must be interpreted in a manner so as to not 
+deprive the employees of the beneﬁ t of the legislation. The object of 
+enacting the Act was to ameliorate the hardship of economically poor 
+employees who were exposed to risks in work, or occupational hazards 
+by providing a cheaper and quicker machinery for compensating 
+them with pecuniary beneﬁ ts. The amendments to the 1923 Act have 
+been enacted to further this salient purpose by either streamlining 
+the compensation process or enhancing the amount of compensation 
+payable to the employee.”
+(Emphasis supplied)
+31. It may be noted that the Commissioner had not returned any ﬁ ndings 
+in respect of the validity or invalidity of the license of the deceased nor was it 
+one of the questions framed by the Commissioner for consideration. In such 
+a situation, while exercising powers within the limited purview allowed by 
+Section 30 of the Act, the learned Court below erred in making observations 
+and giving a holding in that regard.
+32. In the facts at hand, with the cumulative sum of circumstances 
+pointing to the employment of the deceased with the employer company; 
+in keeping with the principles of the legislation being intended for social 
+welfare and protection of employees; the Commissioner being the last 
+authority on facts; the scope of an appeal under the said Act being limited 
+only to substantial questions of law; and no perversity could be demonstrated 
+12 (2020) 4 SCC 594
+
+385
+from the order of the Commissioner, we set aside the order passed in First 
+Appeal No.3487 of 2013. The Appeal is allowed. 
+33. As a consequence thereof, the order passed by the Commissioner, 
+Workmen Compensation Act, Bhuj (Kutch), Gujarat in W.C.F.C.No.08/10 is 
+restored. The amount as deposited, per this order (the remaining 80%, after 
+the release of 20% of the sum awarded being ordered by the Court below in 
+Civil Application No.12822 of 2013 vide order dated 25th June, 2014) and 
+placed in cumulative ﬁ xed deposits, shall become payable to the claimants 
+forthwith, in compliance of the terms and conditions set out therein.
+34. Parties to bear their own costs.
+35. Interlocutory application(s), if any, shall stand disposed of.
+Headnotes prepared by:  
+Appeal allowed.
+Ankit Gyan
+FULMATI DHRAMDEV YADAV & ANR. v. NEW INDIA 
+ASSURANCE CO. LTD. & ANR. [SANJAY KAROL J.]
+
